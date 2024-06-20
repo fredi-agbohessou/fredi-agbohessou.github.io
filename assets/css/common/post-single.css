@@ -82,6 +82,7 @@
     box-shadow: 0 2px 0 var(--darkpurple);
     color: currentColor; 
 }
+}
 
 .post-content a code {
     margin: auto 0;
@@ -90,7 +91,8 @@
 }
 
 .post-content del {
-    text-decoration: line-through;
+    text-decoration: none;
+    background: linear-gradient(to right, var(--primary) 100%, transparent 0) 0 50%/1px 1px repeat-x;
 }
 
 .post-content dl,
@@ -112,7 +114,7 @@
 }
 
 .post-content li::marker {
-    color: var(--tertiary);
+    color: var(--gray);
 }
 
 .post-content li p {
@@ -142,18 +144,19 @@
 }
 
 .post-content table {
-    margin-bottom: var(--content-gap);
+    margin-bottom: 32px;
 }
 
 .post-content table th,
 .post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
     min-width: 80px;
-    padding: 8px 5px;
+    padding: 12px 8px;
     line-height: var(--lineheight);
     border-bottom: 1px solid var(--border);
 }
 
 .post-content table th {
+    font-size: 14px;
     text-align: start;
 }
 
@@ -167,7 +170,7 @@
 
 .post-content .highlight:not(table) {
     margin: 10px auto;
-    background: var(--code-block-bg) !important;
+    background: var(--hljs-bg) !important;
     border-radius: var(--radius);
     direction: ltr;
 }
@@ -212,7 +215,7 @@
 }
 
 .post-content pre code {
-    display: grid;
+    display: block;
     margin: auto 0;
     padding: 10px;
     color: var(--secondary);
@@ -224,7 +227,7 @@
 .post-content blockquote {
     margin: 20px 0;
     padding: 0 14px;
-    border-inline-start: 4px solid var(--tertiary);
+    border-inline-start: 4px solid var(--gray);
 }
 
 .post-content hr {
@@ -273,7 +276,7 @@
 }
 
 .toc li::marker {
-    color: var(--tertiary);
+    color: var(--gray);
 }
 
 .dark .toc {
@@ -314,19 +317,10 @@
     margin-top: 60px;
 }
 
-.post-footer>* {
-    margin-bottom: 10px;
-}
-
-.post-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-}
-
-
 .post-tags li {
     display: inline-block;
+    margin-inline-end: 5px;
+    margin-bottom: 10px;
 }
 
 .post-tags a,
@@ -339,7 +333,8 @@
 
 .post-tags a {
     display: block;
-    padding: 0 10px;
+    padding-inline-start: 10px;
+    padding-inline-end: 10px;
     color: var(--secondary);
     font-size: 16px;
     line-height: 32px;
@@ -355,18 +350,16 @@
 }
 
 .share-buttons {
-    padding: 10px;
+    margin: 13px 0;
+    padding-inline-start: var(--radius);
     display: flex;
     justify-content: center;
     overflow-x: auto;
-    gap: 10px;
 }
 
-.share-buttons li,
 .share-buttons a {
-    display: inline-flex;
+    margin-top: 10px;
 }
-
 
 .share-buttons a:not(:last-of-type) {
     margin-inline-end: 12px;
@@ -387,10 +380,11 @@ h6:hover .anchor {
 }
 
 .paginav {
-/*    margin: 10px 0;*/
+    margin: 10px 0;
     display: flex;
     line-height: var(--lineheight);
     font-size: var(--footersize);
+    border-radius: var(--radius);
 }
 
 .paginav a {

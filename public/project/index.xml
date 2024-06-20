@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research Projects on Yélognissè Agbohessou</title>
+    <link>http://localhost:1313/project/</link>
+    <description>Recent content in Research Projects on Yélognissè Agbohessou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CaSSECS</title>
+      <link>http://localhost:1313/project/cassecs/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/project/cassecs/</guid>
+      <description>Project’s summary CaSSECS 1 is a research and development project supporting innovation for the resilience of pastoral and agropastoral farming systems in the Sahelian countries of the CILSS. It is implemented through a consortium of eighteen partners (a lead applicant ISRA, nine co-applicants, and eight associates).
+Project Objectives The overall objective of the project is to improve the assessment of the carbon balance of (agro)pastoral farming systems to better quantify their impacts on climate change and develop livestock policies adapted to the Sahel.</description>
+    </item>
+    
+    <item>
+      <title>INSA</title>
+      <link>http://localhost:1313/project/insa/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/project/insa/</guid>
+      <description>Project’s summary The Integrated Nitrogen Studies in Africa (INSA)1 project seeks to unpack and analyze the different aspects of the nitrogen budget in Africa, bringing expertise from different fields in the environmental and social sciences through a network of scientists from Europe and Africa.
+Learn more about INSA on the project website .&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
+    <item>
+      <title>RAMSES II</title>
+      <link>http://localhost:1313/project/ramses/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/project/ramses/</guid>
+      <description>Project’s summary RAMSES II 1 addresses the following question: How does the agroforestry practises can be intensified in order to contribute to sustainable increase of agricultural production and economic and food securities in West Africa? It is based on existing research sites, participatory approach, multidisciplinary process-driven researches, and multi-stakeholder platforms.
+An agroforesty park located in Niakhar, Senegal
+Learn more about RAMSES II on the project website &amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
+  </channel>
+</rss>

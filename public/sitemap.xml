@@ -2,99 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pascalmichaillat.org/hugo-website/location/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/data/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/data/data1/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/officehours/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/keyword-10/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/data/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/keyword-5/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/french/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/keyword-6/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/irregular-verbs/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/keyword-7/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/italian/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/data/data1/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/philology/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/courses/course1/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/portuguese/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/courses/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/romance-languages/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/keyword-1/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/spanish/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/keyword-2/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/keyword-3/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/history-of-oil/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/courses/course2/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/mediterranean-world/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/keyword-4/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/oleic-science/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/archive/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/papers/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/asia/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/papers/paper1/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/projects/cassecs/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/courses/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/dynacof/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/courses/course1/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/projects/forsea/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/canine-pulmonary-efficiency/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/geostatistics/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/sausage-dogs/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/ghg-emissions/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/papers/paper2/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/hevea/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/zoology/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/projects/insa/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/books/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/location/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/portugese/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/officehours/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/books/book1/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/celtic-languages/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/projects/ramses/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/irish/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/profanity/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/step/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/courses/course2/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/stics/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/archive/</loc>
+    <loc>http://localhost:1313/tags/trees/</loc>
   </url>
 </urlset>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research Projects on Yélognissè Agbohessou</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Research Projects on Yélognissè Agbohessou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CaSSECS</title>
+      <link>http://localhost:1313/projects/cassecs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/cassecs/</guid>
+      <description>Carbon Sequestration and greenhouse gas emissions in (agro) Sylvopastoral Ecosystems in the Sahelian CILSS States</description>
+    </item>
+    
+    <item>
+      <title>FORSEA</title>
+      <link>http://localhost:1313/projects/forsea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/forsea/</guid>
+      <description>Forecasting impacts of climate change and workforce availability on natural rubber commodity chain in South-East Asia</description>
+    </item>
+    
+    <item>
+      <title>INSA</title>
+      <link>http://localhost:1313/projects/insa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/insa/</guid>
+      <description>Integrated Nitrogen Studies in Africa</description>
+    </item>
+    
+    <item>
+      <title>RAMSES II</title>
+      <link>http://localhost:1313/projects/ramses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/ramses/</guid>
+      <description>Roles of Agroforestry in sustainable intensification of small farMs and food SEcurity for Societies in West Africa</description>
+    </item>
+    
+  </channel>
+</rss>
