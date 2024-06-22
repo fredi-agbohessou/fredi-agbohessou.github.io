@@ -5,10 +5,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Research Projects | Yélognissè Agbohessou</title>
+<title>My Research Projects | Yélognissè Agbohessou</title>
 <meta name="keywords" content="">
 <meta name="description" content="Explore some of the current and past research projects I have participated in. My work has involved international collaborations in Africa, Europe and Asia.">
-<meta name="author" content="Yélognissè Agbohessou">
+<meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/projects/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.a8030d7976ddbb364515317c9a444fae3fff64b097d6df5b468ae98ed4b9f71c.css" integrity="sha256-qAMNeXbduzZFFTF8mkRPrj//ZLCX1t9bRorpjtS59xw=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
@@ -28,13 +28,41 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="Research Projects" />
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="My Research Projects" />
 <meta property="og:description" content="Explore some of the current and past research projects I have participated in. My work has involved international collaborations in Africa, Europe and Asia." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://localhost:1313/projects/" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Research Projects"/>
+<meta name="twitter:title" content="My Research Projects"/>
 <meta name="twitter:description" content="Explore some of the current and past research projects I have participated in. My work has involved international collaborations in Africa, Europe and Asia."/>
 
 
@@ -46,7 +74,7 @@
     {
       "@type": "ListItem",
       "position":  1 ,
-      "name": "Research Projects",
+      "name": "My Research Projects",
       "item": "http://localhost:1313/projects/"
     }
   ]
@@ -85,6 +113,16 @@
 </head>
 
 <body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
 
 <header class="header">
     <nav class="nav">
@@ -95,11 +133,36 @@
                     height="18"
                     width="18">Yélognissè Agbohessou</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
                 <ul class="lang-switch"><li>|</li>
                 </ul>
             </div>
         </div>
         <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/home/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
             <li>
                 <a href="http://localhost:1313/papers/" title="Publications">
                     <span>Publications</span>
@@ -108,17 +171,6 @@
             <li>
                 <a href="http://localhost:1313/projects/" title="Projects">
                     <span class="active">Projects</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://cvdesignr.com/p/6613bc38bb481" title="Resume">
-                    <span>Resume</span>&nbsp;
-                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
-                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
-                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
-                        <path d="M15 3h6v6"></path>
-                        <path d="M10 14L21 3"></path>
-                    </svg>
                 </a>
             </li>
         </ul>
@@ -130,7 +182,46 @@
   <h1>
   </h1>
 </header>
-<div class="post-content"><h4 id="current-and-past-research-projects-in-which-i-have-been-involved">Current and past research projects in which I have been involved</h4>
+<div class="post-content"><style>
+  /* Apply Fonts and Reduce Font Size */
+  body {
+    font-family: 'Courier', 'Courier New', monospace;
+    line-height: 1.6;
+    color: #333;
+    font-size: 14px;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Courier', 'Courier New', monospace;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+  }
+  h1 {
+    font-size: 2em;
+    font-weight: 700;
+  }
+  h2 {
+    font-size: 1.75em;
+    font-weight: 700;
+  }
+  h3 {
+    font-size: 1.5em;
+    font-weight: 700;
+  }
+  h4 {
+    font-size: 1.25em;
+    font-weight: 500;
+  }
+  p {
+    margin-bottom: 1em;
+  }
+  ul {
+    margin: 0;
+    padding: 0 1em;
+  }
+  li {
+    margin-bottom: 0.5em;
+  }
+</style>
 
 </div>
 
@@ -143,15 +234,15 @@
     </h2>
   </header>
   <div class="entry-content">
-    <p>Carbon Sequestration and greenhouse gas emissions in (agro) Sylvopastoral Ecosystems in the Sahelian CILSS States</p>
+    <p>Carbon Sequestration and Greenhouse Gas Emissions in (Agro) Sylvopastoral Ecosystems in the Sahelian CILSS States</p>
   </div>
-  <footer class="entry-footer">Sahelian livestock and carbon balance</footer>
+  <footer class="entry-footer"></footer>
   <a class="entry-link" aria-label="post link to CaSSECS" href="http://localhost:1313/projects/cassecs/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/projects/forsea/featured.jpg" alt="Hevea in Asia">
+        <img loading="lazy" src="http://localhost:1313/projects/forsea/featured.jpg" alt="">
 </figure>
   <header class="entry-header">
     <h2>FORSEA
@@ -160,7 +251,7 @@
   <div class="entry-content">
     <p>Forecasting impacts of climate change and workforce availability on natural rubber commodity chain in South-East Asia</p>
   </div>
-  <footer class="entry-footer">Hevea in Asia</footer>
+  <footer class="entry-footer"></footer>
   <a class="entry-link" aria-label="post link to FORSEA" href="http://localhost:1313/projects/forsea/"></a>
 </article>
 
@@ -175,7 +266,7 @@
   <div class="entry-content">
     <p>Integrated Nitrogen Studies in Africa</p>
   </div>
-  <footer class="entry-footer">Nitrogen / Africa</footer>
+  <footer class="entry-footer"></footer>
   <a class="entry-link" aria-label="post link to INSA" href="http://localhost:1313/projects/insa/"></a>
 </article>
 
@@ -190,7 +281,7 @@
   <div class="entry-content">
     <p>Roles of Agroforestry in sustainable intensification of small farMs and food SEcurity for Societies in West Africa</p>
   </div>
-  <footer class="entry-footer">Agroforestry in West Africa</footer>
+  <footer class="entry-footer"></footer>
   <a class="entry-link" aria-label="post link to RAMSES II" href="http://localhost:1313/projects/ramses/"></a>
 </article>
     </main>
@@ -233,6 +324,18 @@
             }
         });
     });
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

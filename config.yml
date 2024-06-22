@@ -11,27 +11,31 @@ taxonomies:
 
 menu:
     main:
+        - name: Home
+          url: home/
+          weight: 1
         - name: Publications
           url: papers/
-          weight: 1
+          weight: 2
         - name: Projects
           url: projects/
-          weight: 2
-        - name: Resume
-          url: https://cvdesignr.com/p/6613bc38bb481
-          weight: 3 
+          weight: 3
+        #- name: Resume
+        #  url: https://cvdesignr.com/p/6613bc38bb481
+        #  weight: 3 
         # - name: Photography
         #   url: https://pmichaillat.substack.com
         #   weight: 4
 
 params:
-    description: "I am ............."
-    author: Name
+    description: "my site"
+    #author: Me
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: auto #light dark auto
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
+    
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -47,15 +51,18 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+
     profileMode:
           enabled: true
           title: Yélognissè Agbohessou
-          subtitle: "Hello and welcome! I am a postdoctoral researcher at [UMR Eco&Sols](https://www.umr-ecosols.fr/)/[Cirad](https://www.cirad.fr/en), working on modeling the impact of climatic stresses on the functioning of rubber trees (*Hevea brasiliensis*). I use data and models to investigate biological processes occurring in both natural and managed ecosystems."
+          subtitle: "Hello and welcome! I am a **postdoctoral researcher** at [UMR Eco&Sols](https://www.umr-ecosols.fr/)/[Cirad](https://www.cirad.fr/en), working on **modeling** the impact of climatic stresses on the functioning of rubber trees (*Hevea brasiliensis*). I use data and models to investigate biological processes occurring in both **natural and managed ecosystems**."
           imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Yélognissè Agbohessou
           buttons:
+            - name: Home
+              url: home
             - name: Publications
               url: papers/
             # - name: Courses
@@ -68,8 +75,6 @@ params:
             #   url: tags/
             - name: Projects
               url: projects/
-            - name: Resume
-              url: https://cvdesignr.com/p/6613bc38bb481
             #- name: Archive
             #  url: archive/
     socialIcons:
@@ -79,18 +84,18 @@ params:
           url: https://cvdesignr.com/p/6613bc38bb481
         #- name: Google Scholar
         #  url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        #- name: Location
-        #  url: location/
         #- name: Office Hours
         #  url: officehours/
         - name: GitHub
-          url: https://github.com/MadoShi64 
+          url: https://github.com/fredi-agbohessou 
         - name: Orcid
           url: https://orcid.org/0000-0002-2681-0162
         #- name: YouTube
         #  url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
           url: https://twitter.com/yagbohessou      
+        - name: Location
+          url: location/
 
     assets:
         disableHLJS: true
@@ -114,3 +119,4 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
