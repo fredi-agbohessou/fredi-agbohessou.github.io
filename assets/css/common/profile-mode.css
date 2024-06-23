@@ -50,3 +50,59 @@
     width: 100%;
 /*    padding: 18px 18px;*/
   }
+
+/* Apply Consolas Font */
+body {
+    font-family: 'Consolas', monospace;
+    font-size: 10px; /* Smaller font size */
+    line-height: 1.4; /* Adjusted line height for readability */
+  }
+  
+  h1 {
+    font-family: 'Consolas', monospace;
+    font-size: 1.5em; /* Adjusted heading font size */
+    font-weight: 700;
+  }
+  
+  h2 {
+    font-family: 'Consolas', monospace;
+    font-size: 1.4em; /* Adjusted heading font size */
+    font-weight: 700;
+  }
+  
+  h3 {
+    font-family: 'Consolas', monospace;
+    font-size: 1.3em; /* Adjusted heading font size */
+    font-weight: 700;
+  }
+  
+  h4 {
+    font-family: 'Consolas', monospace;
+    font-size: 1.2em; /* Adjusted heading font size */
+    font-weight: 500;
+  }
+  
+  nav {
+    font-family: 'Consolas', monospace;
+    font-size: 0.8em; /* Smaller font size for navigation */
+  }
+  
+  code, pre {
+    font-family: 'Consolas', monospace;
+    font-size: 0.8em; /* Smaller font size for code */
+  }
+  
+  /* Adjust paragraph and list item margins */
+  p {
+    margin-bottom: 1em;
+  }
+  
+  ul {
+    margin: 0;
+    padding: 0 1em;
+  }
+  
+  li {
+    margin-bottom: 0.5em;
+  }
+  

@@ -32,9 +32,9 @@ params:
     #author: Me
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: auto #light dark auto
+    defaultTheme: light #auto #light dark auto
     hideFooter: false
-    disableThemeToggle: false
+    disableThemeToggle: true
     
     ShowShareButtons: false
     ShowReadingTime: false
@@ -105,7 +105,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Yélognissè Agbohessou"
-      icon: favicon.ico
+      icon: icon.png #favicon.ico
       iconHeight: 18
 
 markup:
