@@ -15,5 +15,5 @@ disableAnchoredHeadings: false
 ## Project’s summary
 
 ---
-Learn more about RAMSES II on the project [website](https://www.cirad.fr/dans-le-monde/cirad-dans-le-monde/projets/projet-forsea)
+Learn more about FORSEA on the project [website](https://www.cirad.fr/dans-le-monde/cirad-dans-le-monde/projets/projet-forsea)
 
