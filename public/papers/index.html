@@ -115,6 +115,11 @@
                     <span>Projects</span>
                 </a>
             </li>
+            <li>
+                <a href="http://localhost:1313/data/" title="Data">
+                    <span>Data</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
@@ -124,17 +129,63 @@
   <h1>
   </h1>
 </header>
-<div class="post-content"><h3 id="table-of-contents">Table of Contents</h3>
-<ul>
-<li><a href="#-research-articles">📚 Research Articles</a>
-</li>
-<li><a href="#-oral-communications">🎤 Oral Communications</a>
-</li>
-<li><a href="#-posters">🖼️ Posters</a>
-</li>
-</ul>
+<div class="post-content"><style>
+#description {
+  color: grey;
+  font-size: 1.1em;
+  font-style: bold;
+}
+#toc {
+  display: none;
+  margin-top: 10px;
+  padding: 10px;
+  border: 2px #f0f0f0;
+  background-color: #f0f0f0;
+  font-size: 0.9em;
+}
+#toggle-button {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+  display: inline-flex;
+  align-items: center;
+  font-weight: bold;
+  color: black;
+}
+#arrow {
+  margin-left: 5px;
+  transition: transform 0.3s;
+}
+#arrow.rotate {
+  transform: rotate(90deg);
+}
+</style>
+<div>
+  <p id="description">Research articles, oral communications, and posters by our team</p>
+  <p id="toggle-button" onclick="toggleTOC()">Table of Contents <span id="arrow">➤</span></p>
+  <div id="toc">
+    <ul>
+      <li><a href="#research-articles">📚Research Articles</a></li>
+      <li><a href="#oral-communications">🎤Oral Communications</a></li>
+      <li><a href="#posters">🖼️Posters</a></li>
+    </ul>
+  </div>
+</div>
+<script>
+function toggleTOC() {
+  var toc = document.getElementById("toc");
+  var arrow = document.getElementById("arrow");
+  if (toc.style.display === "none") {
+    toc.style.display = "block";
+    arrow.classList.add("rotate");
+  } else {
+    toc.style.display = "none";
+    arrow.classList.remove("rotate");
+  }
+}
+</script>
 <hr>
-<h3 id="-research-articles">📚 Research Articles</h3>
+<h3 id="a-idresearch-articlesresearch-articlesa"><a id="research-articles">📚Research Articles</a></h3>
 <ul>
 <li>
 <p><strong>Agbohessou, Y., Delon, C., Grippa, M., Mougin, E., Ngom, D., Gaglo, E.K., Ndiaye, O., Salgado, P., Roupsard, O.</strong> (2024). <em>Modelling CO2 and N2O emissions from soils in silvopastoral systems of the West African Sahelian band.</em> Biogeosciences, 21, 2811–2837. <a href="https://doi.org/10.5194/bg-21-2811-2024" target="_blank">https://doi.org/10.5194/bg-21-2811-2024</a>
@@ -158,7 +209,7 @@
 </li>
 </ul>
 <hr>
-<h3 id="-oral-communications">🎤 Oral Communications</h3>
+<h3 id="a-idoral-communicationsoral-communicationsa"><a id="oral-communications">🎤Oral Communications</a></h3>
 <ul>
 <li>
 <p><strong>Agbohessou, Y., Ba, S., Ferchaud, F., Léonard, J., Bouvery, F., Duthoit, M., Sow, S., Delon, C., Vezy, R., Ngom, D., Mougin, E., Falconnier, G., Taugourdeau, S., Roupsard, O.</strong> (2024). <em>Modelling CO2 and N2O emissions from a tropical semi-arid parkland cultivated with groundnut and millet.</em> EGU24, 14-19 April 2024, Vienna, Austria. Copernicus Meetings. <a href="https://doi.org/10.5194/egusphere-egu24-7588" target="_blank">https://doi.org/10.5194/egusphere-egu24-7588</a>
@@ -206,7 +257,7 @@
 </li>
 </ul>
 <hr>
-<h3 id="-posters">🖼️ Posters</h3>
+<h3 id="a-idposterspostersa"><a id="posters">🖼️Posters</a></h3>
 <ul>
 <li>
 <p><strong>Agbohessou, Y., Delon, C., Grippa, M., Mougin, E., Tagesson, T., Ngom, D., Gaglo, E.K., Ba, S., Ndiaye, O., Roupsard, O.</strong>, 2024. <em>Modélisation des émissions de CO2 et de N2O des sols dans les systèmes sylvopastoraux sahéliens : de l&rsquo;échelle locale à l&rsquo;échelle régionale.</em> JMSC2024, 19-20 Juin 2024, Strasbourg, France.</p>

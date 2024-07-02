@@ -20,12 +20,9 @@ menu:
         - name: Projects
           url: projects/
           weight: 3
-        #- name: Resume
-        #  url: https://cvdesignr.com/p/6613bc38bb481
-        #  weight: 3 
-        # - name: Photography
-        #   url: https://pmichaillat.substack.com
-        #   weight: 4
+        - name: Data
+          url: data/
+          weight: 4
 
 params:
     description: "my site"

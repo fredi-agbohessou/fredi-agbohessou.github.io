@@ -5,14 +5,66 @@ show_title_as_headline: false
 toc: true
 ---
 
-### Table of Contents
-- [👋 Hello and Welcome!](#hello-and-welcome-)
-- [🌿 Interests](#interests-)
-- [🎓 Education](#education-)
-- [💼 Experience](#experience-)
-- [📚 Training](#training-)
-- [🎯 Skills](#skills-)
+<style>
+#description {
+  color: grey;
+  font-size: 1.1em;
+  font-style: bold;
+}
+#toc {
+  display: none;
+  margin-top: 10px;
+  padding: 10px;
+  border: 2px #f0f0f0;
+  background-color: #f0f0f0;
+  font-size: 0.9em;
+}
+#toggle-button {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+  display: inline-flex;
+  align-items: center;
+  font-weight: bold;
+  color: black;
+}
+#arrow {
+  margin-left: 5px;
+  transition: transform 0.3s;
+}
+#arrow.rotate {
+  transform: rotate(90deg);
+}
+</style>
 
+<div>
+  <p id="description">About me</p>
+  <p id="toggle-button" onclick="toggleTOC()">Table of Contents <span id="arrow">➤</span></p>
+  <div id="toc">
+    <ul>
+      <li><a href="#hello-and-welcome-">👋 Hello and Welcome!</a></li>
+      <li><a href="#interests-">🌿 Interests</a></li>
+      <li><a href="#education-">🎓 Education</a></li>
+      <li><a href="#experience-">💼 Experience</a></li>
+      <li><a href="#training-">📚 Training</a></li>
+      <li><a href="#skills-">🎯 Skills</a></li>
+    </ul>
+  </div>
+</div>
+
+<script>
+function toggleTOC() {
+  var toc = document.getElementById("toc");
+  var arrow = document.getElementById("arrow");
+  if (toc.style.display === "none") {
+    toc.style.display = "block";
+    arrow.classList.add("rotate");
+  } else {
+    toc.style.display = "none";
+    arrow.classList.remove("rotate");
+  }
+}
+</script>
 ---
 
 ### Hello and Welcome! 👋
@@ -64,14 +116,30 @@ plot to stand in an agro-silvo-pastoral system through a geostatistical-based me
 ---
 
 ### Skills 🎯
+<style>
+table {
+    width: 100%; /* Ensures the table takes full width */
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 17px; /* Adjust the size as needed */
+}
+</style>
 
-| Skill                      | Proficiency |
-|----------------------------|-------------|
-| 📈 **Statistics**          | 70%         |
-| 💻 **Programming**         | 50%         |
-| 🗺️ **GIS**                 | 70%         |
-| 🌳 **Ecology & Agroforestry** | 90%       |
-| 🧩 **Modelling**           | 70%         |
-| 🗣️ **Scientific Communication** | 70%   |
+<div style="margin: 0 auto; width: fit-content;">
+
+|      🌟 **Skill**                | **Proficiency** |
+|---------------------------------|-----------------|
+| 📈 **Statistics**               | ██████████░░░░ | 70%
+| 💻 **Programming**              | ███████░░░░░░░ | 50%
+| 🗺️ **GIS**                     | ██████████░░░░ | 70%
+| 🌳 **Ecology & Agroforestry**   | ██████████████░ | 90%
+| 🧩 **Modelling**                | ██████████░░░░ | 70%
+| 🗣️ **Scientific Communication**| ██████████░░░░ | 70%
+
+</div>
+
+
+
+
 
 

@@ -5,14 +5,67 @@ layout: post
 toc: true
 ---
 
-### Table of Contents
-- [📚 Research Articles](#-research-articles)
-- [🎤 Oral Communications](#-oral-communications)
-- [🖼️ Posters](#-posters)
+<style>
+#description {
+  color: grey;
+  font-size: 1.1em;
+  font-style: bold;
+}
+#toc {
+  display: none;
+  margin-top: 10px;
+  padding: 10px;
+  border: 2px #f0f0f0;
+  background-color: #f0f0f0;
+  font-size: 0.9em;
+}
+#toggle-button {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+  display: inline-flex;
+  align-items: center;
+  font-weight: bold;
+  color: black;
+}
+#arrow {
+  margin-left: 5px;
+  transition: transform 0.3s;
+}
+#arrow.rotate {
+  transform: rotate(90deg);
+}
+</style>
+
+<div>
+  <p id="description">Research articles, oral communications, and posters by our team</p>
+  <p id="toggle-button" onclick="toggleTOC()">Table of Contents <span id="arrow">➤</span></p>
+  <div id="toc">
+    <ul>
+      <li><a href="#research-articles">📚Research Articles</a></li>
+      <li><a href="#oral-communications">🎤Oral Communications</a></li>
+      <li><a href="#posters">🖼️Posters</a></li>
+    </ul>
+  </div>
+</div>
+
+<script>
+function toggleTOC() {
+  var toc = document.getElementById("toc");
+  var arrow = document.getElementById("arrow");
+  if (toc.style.display === "none") {
+    toc.style.display = "block";
+    arrow.classList.add("rotate");
+  } else {
+    toc.style.display = "none";
+    arrow.classList.remove("rotate");
+  }
+}
+</script>
 
 ---
 
-### 📚 Research Articles
+### <a id="research-articles">📚Research Articles</a>
 
 - **Agbohessou, Y., Delon, C., Grippa, M., Mougin, E., Ngom, D., Gaglo, E.K., Ndiaye, O., Salgado, P., Roupsard, O.** (2024). *Modelling CO2 and N2O emissions from soils in silvopastoral systems of the West African Sahelian band.* Biogeosciences, 21, 2811–2837. [https://doi.org/10.5194/bg-21-2811-2024](https://doi.org/10.5194/bg-21-2811-2024)
 
@@ -26,7 +79,7 @@ toc: true
 
 ---
 
-### 🎤 Oral Communications
+### <a id="oral-communications">🎤Oral Communications</a>
 
 - **Agbohessou, Y., Ba, S., Ferchaud, F., Léonard, J., Bouvery, F., Duthoit, M., Sow, S., Delon, C., Vezy, R., Ngom, D., Mougin, E., Falconnier, G., Taugourdeau, S., Roupsard, O.** (2024). *Modelling CO2 and N2O emissions from a tropical semi-arid parkland cultivated with groundnut and millet.* EGU24, 14-19 April 2024, Vienna, Austria. Copernicus Meetings. [https://doi.org/10.5194/egusphere-egu24-7588](https://doi.org/10.5194/egusphere-egu24-7588)
 
@@ -56,7 +109,7 @@ toc: true
     
 ---
 
-### 🖼️ Posters
+### <a id="posters">🖼️Posters</a>
 
 - **Agbohessou, Y., Delon, C., Grippa, M., Mougin, E., Tagesson, T., Ngom, D., Gaglo, E.K., Ba, S., Ndiaye, O., Roupsard, O.**, 2024. *Modélisation des émissions de CO2 et de N2O des sols dans les systèmes sylvopastoraux sahéliens : de l'échelle locale à l'échelle régionale.* JMSC2024, 19-20 Juin 2024, Strasbourg, France.
 
