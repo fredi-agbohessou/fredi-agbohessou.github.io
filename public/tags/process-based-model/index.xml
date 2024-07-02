@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Process-Based Model on Yélognissè Agbohessou</title>
+    <link>http://localhost:1313/tags/process-based-model/</link>
+    <description>Recent content in Process-Based Model on Yélognissè Agbohessou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/process-based-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1D STEP-GENDEC-CN</title>
+      <link>http://localhost:1313/code/step_1d/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/code/step_1d/</guid>
+      <description>1D-STEP-GENDEC-CN is a 1D coupled process-based model developed for Sahelian herbaceous savannas. It simulates a set of processes describing the water, C and N cycling between the atmosphere, vegetation, and soil at daily temporal resolution</description>
+    </item>
+    
+  </channel>
+</rss>

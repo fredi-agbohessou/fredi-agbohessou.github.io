@@ -9,13 +9,13 @@ toc: true
 #description {
   color: grey;
   font-size: 1.1em;
-  font-style: bold;
+  font-weight: bold;
 }
 #toc {
   display: none;
   margin-top: 10px;
   padding: 10px;
-  border: 2px #f0f0f0;
+  border: 2px solid #f0f0f0;
   background-color: #f0f0f0;
   font-size: 0.9em;
 }
@@ -26,7 +26,6 @@ toc: true
   display: inline-flex;
   align-items: center;
   font-weight: bold;
-  color: black;
 }
 #arrow {
   margin-left: 5px;
@@ -137,9 +136,3 @@ table {
 | 🗣️ **Scientific Communication**| ██████████░░░░ | 70%
 
 </div>
-
-
-
-
-
-

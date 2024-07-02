@@ -116,8 +116,8 @@
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/data/" title="Data">
-                    <span>Data</span>
+                <a href="http://localhost:1313/code/" title="Code">
+                    <span>Code</span>
                 </a>
             </li>
         </ul>
@@ -133,16 +133,18 @@
 #description {
   color: grey;
   font-size: 1.1em;
-  font-style: bold;
+  font-weight: bold; /* Changed from font-style to font-weight */
 }
+
 #toc {
   display: none;
   margin-top: 10px;
   padding: 10px;
-  border: 2px #f0f0f0;
+  border: 2px solid #f0f0f0;
   background-color: #f0f0f0;
   font-size: 0.9em;
 }
+
 #toggle-button {
   cursor: pointer;
   color: blue;
@@ -150,7 +152,6 @@
   display: inline-flex;
   align-items: center;
   font-weight: bold;
-  color: black;
 }
 #arrow {
   margin-left: 5px;

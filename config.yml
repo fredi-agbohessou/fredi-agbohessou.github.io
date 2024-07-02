@@ -20,8 +20,8 @@ menu:
         - name: Projects
           url: projects/
           weight: 3
-        - name: Data
-          url: data/
+        - name: Code
+          url: code/
           weight: 4
 
 params:
