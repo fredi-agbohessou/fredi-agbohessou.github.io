@@ -148,4 +148,11 @@ function toggleTOC() {
 
 ### <a id="custom-code">My scripts 📄</a>
 
-......
+<div class="model-item">
+  <div class="model-description">
+    <p><a href="https://github.com/fredi-agbohessou/AFM_agbohessou_et_al_2023">Codes [plots, sensitivity and uncertainty analysis]</a>  "To what extent are greenhouse-gas emissions offset by trees in a Sahelian silvopastoral system?"</p>
+  </div>
+  <div class="model-logo">
+    <img src="AFM.png" alt="Maespa">
+  </div>
+</div>
