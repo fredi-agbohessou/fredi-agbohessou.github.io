@@ -156,3 +156,13 @@ function toggleTOC() {
     <img src="AFM.png" alt="Maespa">
   </div>
 </div>
+
+
+<div class="model-item">
+  <div class="model-description">
+    <p><a href="plot_delon_et_al_2022.R">Codes [plots in]</a>  "Nitrogen budget and critical load determination at a Sahelian grazed grassland site (Delon et al. 2022)"</p>
+  </div>
+  <div class="model-logo">
+    <img src="delon_et_al2022.png" alt="Maespa">
+  </div>
+</div>
