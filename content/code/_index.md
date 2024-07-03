@@ -150,7 +150,7 @@ function toggleTOC() {
 
 <div class="model-item">
   <div class="model-description">
-    <p><a href="https://github.com/fredi-agbohessou/AFM_agbohessou_et_al_2023">Codes [plots, sensitivity and uncertainty analysis]</a>  "To what extent are greenhouse-gas emissions offset by trees in a Sahelian silvopastoral system?"</p>
+    <p><a href="https://github.com/fredi-agbohessou/AFM_agbohessou_et_al_2023">Codes [plots, sensitivity and uncertainty analysis in]</a>  "To what extent are greenhouse-gas emissions offset by trees in a Sahelian silvopastoral system? (Agbohessou et al. 2023)"</p>
   </div>
   <div class="model-logo">
     <img src="AFM.png" alt="Maespa">
@@ -160,7 +160,7 @@ function toggleTOC() {
 
 <div class="model-item">
   <div class="model-description">
-    <p><a href="plot_delon_et_al_2022.R">Codes [plots in]</a>  "Nitrogen budget and critical load determination at a Sahelian grazed grassland site (Delon et al. 2022)"</p>
+    <p><a href="https://github.com/fredi-agbohessou/AFM_agbohessou_et_al_2023/blob/main/code_delon_et_al_2022/plot_delon_et_al_2022.R">Codes [plots in]</a>  "Nitrogen budget and critical load determination at a Sahelian grazed grassland site (Delon et al. 2022)"</p>
   </div>
   <div class="model-logo">
     <img src="delon_et_al2022.png" alt="Maespa">
