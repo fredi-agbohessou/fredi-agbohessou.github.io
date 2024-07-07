@@ -8,6 +8,7 @@ description: "Explore some of the current and past research projects I have part
   color: grey;
   font-size: 1.1em;
   font-weight: bold;
+  text-align: center
 }
 
 .model-description {

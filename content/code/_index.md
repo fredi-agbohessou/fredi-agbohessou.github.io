@@ -9,6 +9,7 @@ view: 2
   color: grey;
   font-size: 1.1em;
   font-weight: bold;
+  text-align: center
 }
 
 #toc {

@@ -10,6 +10,7 @@ toc: true
   color: grey;
   font-size: 1.1em;
   font-weight: bold; /* Changed from font-style to font-weight */
+  text-align: center
 }
 
 #toc {
