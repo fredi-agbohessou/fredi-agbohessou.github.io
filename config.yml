@@ -23,9 +23,9 @@ menu:
         - name: Code
           url: code/
           weight: 4
-        - name: Pics
-          url: event/
-          weight: 4
+       # - name: Pics
+        #  url: event/
+         # weight: 4
 
 params:
     description: "my site"
