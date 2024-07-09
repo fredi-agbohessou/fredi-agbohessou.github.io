@@ -68,7 +68,7 @@ function toggleTOC() {
 ---
 
 ### Hello and Welcome! 👋
-I'm Yélognissè Frédi Agbohessou from Benin. I'm a research scientist with a love for history, nature, photography, and football (because who doesn't love a good game?). My research focuses on the application of modeling and spatial data science to address challenges in agroforestry, agronomy, and forestry. My work aims to tackle issues related to food security and the impact of climate change on ecosystems.
+I'm Yélognissè Frédi Agbohessou from Benin. I'm a research scientist with a love for history, nature, photography, and football (because who doesn't love a good game?). My research focuses on the application of modeling and spatial data science to address challenges in ecology, agroforestry, agronomy, and forestry. My work aims to tackle issues related to food security and the impact of climate change on ecosystems.
 
 I am currently working as a postdoctoral researcher at [UMR Eco&Sols](https://www.umr-ecosols.fr/)/[Cirad](https://www.cirad.fr/en), focusing on modeling the impact of climatic stresses on the functioning of rubber trees (*Hevea brasiliensis*).
 
