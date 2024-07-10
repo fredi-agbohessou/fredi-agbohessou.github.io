@@ -151,6 +151,16 @@ function toggleTOC() {
 
 <div class="model-item">
   <div class="model-description">
+    <p><a href="https://github.com/fredi-agbohessou/my_scripts/tree/main/BG_Agbohessou_et_al_2024/data_extraction_processing_and_mapping">Codes [data extraction, processing and mapping in]</a>  "Modelling CO2 and N2O emissions from soils in silvopastoral systems of the West African Sahelian band (Agbohessou et al. 2024)"</p>
+  </div>
+  <div class="model-logo">
+    <img src="BG.png" alt="Maespa">
+  </div>
+</div>
+
+
+<div class="model-item">
+  <div class="model-description">
     <p><a href="https://github.com/fredi-agbohessou/my_scripts/tree/main/AFM_Agbohessou_et_al_2023">Codes [plots, sensitivity and uncertainty analysis in]</a>  "To what extent are greenhouse-gas emissions offset by trees in a Sahelian silvopastoral system? (Agbohessou et al. 2023)"</p>
   </div>
   <div class="model-logo">
@@ -167,3 +177,5 @@ function toggleTOC() {
     <img src="delon_et_al2022.png" alt="Maespa">
   </div>
 </div>
+
+---
