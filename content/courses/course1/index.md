@@ -36,12 +36,12 @@ Ce cours couvre les sujets liés à l'analyse des données géospatiales. Il ten
 
 ### Document du cours 
 
-+ [Note du cours : diapositive ](slides1.pdf)
++ [Note du cours : diapositive ](slides.pdf)
 + [Matériels du cours](geospatialR.rar)
 
 ### Excercices
 
-+ [Excercice A : Manipulations des données Vectorielles](slides1.pdf)
-+ [Excercice B : Manipulations des données raster](slides1.pdf)
++ [Excercice A : Manipulations des données Vectorielles](slides.pdf)
++ [Excercice B : Manipulations des données raster](slides.pdf)
 ---
 
