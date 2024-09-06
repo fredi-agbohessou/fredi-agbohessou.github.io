@@ -1,93 +1,47 @@
 ---
-title: "Course Name 1"
-date: 2022-03-10
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Prof. Name"
-sdescription: "This graduate course presents things." 
-summary: "This graduate course presents various methods and results." 
+title: "Analyse géospatiale avec R"
+tags: ["SIG","vecteur","raster","R"]
+author: "Dr. Yélognissè Frédi Agbohessou"
+summary: "Ce cours a pour objectif de vous apprendre comment utiliser le langage R pour extraire, manipuler, visualiser et analyser des données géospatiales issues de bases de données environnementales mondiales telles que ERA5, MODIS..."
+
 cover:
     image: "course1.png"
     alt: "Figure caption"
     relative: false
-editPost:
-    URL: "https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf"
-    Text: "YouTube playlist"
-showToc: true
+showToc: false
 disableAnchoredHeadings: false
 
 ---
 
-## Introduction
+---
 
-This course covers research topics related to things. It tries to answer several questions: 
+Ce cours couvre les sujets liés à l'analyse des données géospatiales. Il tente de répondre à plusieurs questions : 
 
-+ Why this? 
-+ Why that? 
-+ What about this? 
-+ What about that?
++ Qu'est-ce qu'un SIG et en quoi les données géospatiales sont-elles utiles en écologie (par exemple) ? 
++ Comment manipuler les données vectorielles avec R? 
++ Comment manipuler les données raster avec R? 
 
 
 ---
 
-## Part 1
+## Plan
 
-This section reviews things.
++ CHAPITRE 0 : Préparation et Pré-requis 
++ CHAPITRE 1 : Rappel sur les systèmes d'information géographique (SIG) et les données géospatiales
++ CHAPITRE 2 : Manipulations des données Vectorielles
++ CHAPITRE 3 : Manipulations des données raster
++ CHAPITRE BONUS A : Interpolation des données raster à partir d'observations ponctuelles
++ CHAPITRE BONUS B : Comment gérer un fichier NetCDF ?
++ CHAPITRE BONUS C : Manipulations Avancées des Données Vectorielles
 
-##### Lecture videos
+### Document du cours 
 
-1. [Video Title 1](https://youtu.be/0rbmjemhy38)
-2. [Video Title 2](https://youtu.be/a2tbm5ljZJM)
-3. [Video Title 3](https://youtu.be/bz2mXgo7Kj0)
-4. [Video Title 4](https://youtu.be/rA4S9lFiU3o)
++ [Note du cours : diapositive ](slides1.pdf)
++ [Matériels du cours](geospatialR.rar)
 
-##### Lecture notes
+### Excercices
 
-+ [Lecture Note Title 1](lecture1.pdf)
-
-##### Readings
-
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-+ [Paper Title 2](https://doi.org/10.1257/mac.6.1.190) – This paper reviews things.
-+ [Paper Title 3](https://doi.org/10.1093/qje/qjv006) – This paper reviews more things and derives some results.
-
-##### Homework
-
-+ [Quiz 1](quiz1.pdf)
-+ [Problem set 1](ps1.pdf)
-
++ [Excercice A : Manipulations des données Vectorielles](slides1.pdf)
++ [Excercice B : Manipulations des données raster](slides1.pdf)
 ---
 
-## Part 2
-
-This section introduces other things.
-
-##### Lecture videos
-
-5. [Video Title 5](https://youtu.be/tU0dtS9iiOk)
-6. [Video Title 6](https://youtu.be/GMIKykwvrGI)
-7. [Video Title 7](https://youtu.be/79MSNfp1rw0)
-8. [Video Title 8](https://youtu.be/zEShE10YiYo)
-9. [Video Title 9](https://youtu.be/SNlHsn7isog)
-
-##### Lecture notes
-
-+ [Lecture Note Title 2](lecture2.pdf)
-
-##### Readings
-
-+ [Paper Title 4](https://doi.org/10.1093/restud/rdy030) – This paper shows stuff.
-+ [Paper Title 5](https://doi.org/10.1093/jeea/jvaa041) – This paper shows other things.
-
-##### Homework
-
-+ [Quiz 2](quiz2.pdf)
-+ [Problem Set 2](ps2.pdf)
-
----
-
-## Part 3
-
-This section turns to other things. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

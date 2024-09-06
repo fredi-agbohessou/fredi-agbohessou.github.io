@@ -5,59 +5,40 @@
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Yélognissè Agbohessou</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Keyword 1</title>
-      <link>http://localhost:1313/tags/keyword-1/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <title>R</title>
+      <link>http://localhost:1313/tags/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/keyword-1/</guid>
+      <guid>http://localhost:1313/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Keyword 2</title>
-      <link>http://localhost:1313/tags/keyword-2/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <title>Raster</title>
+      <link>http://localhost:1313/tags/raster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/keyword-2/</guid>
+      <guid>http://localhost:1313/tags/raster/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Keyword 3</title>
-      <link>http://localhost:1313/tags/keyword-3/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <title>SIG</title>
+      <link>http://localhost:1313/tags/sig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/keyword-3/</guid>
+      <guid>http://localhost:1313/tags/sig/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Keyword 4</title>
-      <link>http://localhost:1313/tags/keyword-4/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Vecteur</title>
+      <link>http://localhost:1313/tags/vecteur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/keyword-4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Keyword 5</title>
-      <link>http://localhost:1313/tags/keyword-5/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/keyword-5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Keyword 6</title>
-      <link>http://localhost:1313/tags/keyword-6/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/keyword-6/</guid>
+      <guid>http://localhost:1313/tags/vecteur/</guid>
       <description></description>
     </item>
     
