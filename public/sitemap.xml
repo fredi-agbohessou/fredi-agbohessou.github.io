@@ -14,6 +14,10 @@
   </url><url>
     <loc>http://localhost:1313/location/</loc>
   </url><url>
+    <loc>http://localhost:1313/maps/</loc>
+  </url><url>
+    <loc>http://localhost:1313/maps/maps1/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/officehours/</loc>

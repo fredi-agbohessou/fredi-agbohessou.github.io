@@ -25,6 +25,9 @@ menu:
           weight: 4
         - name: Code
           url: code/
+          weight: 6
+        - name: Maps
+          url: Maps/
           weight: 5
         
 
@@ -76,8 +79,7 @@ params:
             #   url: tags/
             - name: Projects
               url: projects/
-            #- name: Archive
-            #  url: archive/
+
     socialIcons:
         - name: Email
           url: mailto:fredi.agbohessou@cirad.fr
