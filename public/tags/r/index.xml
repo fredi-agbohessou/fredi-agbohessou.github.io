@@ -15,14 +15,5 @@
       <description>Ce cours a pour objectif de vous apprendre comment utiliser le langage R pour extraire, manipuler, visualiser et analyser des données géospatiales issues de bases de données environnementales mondiales telles que ERA5, MODIS&amp;hellip;</description>
     </item>
     
-    <item>
-      <title>Medical centers in Africa</title>
-      <link>http://localhost:1313/maps/maps1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/maps/maps1/</guid>
-      <description>..</description>
-    </item>
-    
   </channel>
 </rss>
