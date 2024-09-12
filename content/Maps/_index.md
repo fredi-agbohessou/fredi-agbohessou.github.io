@@ -1,6 +1,6 @@
 ---
 title: My Maps
-description: "Informative Maps of Africa"
+description: "Informative maps made using R"
 ---
 
 <style>
