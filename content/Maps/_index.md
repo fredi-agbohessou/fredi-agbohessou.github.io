@@ -30,7 +30,7 @@ description: "Informative maps made using R"
 </style>
 
 <div>
-  <p id="description">Informative Maps of Africa</p>
+  <p id="description">Informative maps made using R</p>
 </div>
 
 ---
