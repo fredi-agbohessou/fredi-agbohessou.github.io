@@ -35,6 +35,6 @@ description: "Informative Maps of Africa"
 
 ---
 
-![](africa_hospitals.png)
+![Map of African Hospitals](/images/africa_hospitals.png)
 
 ---
