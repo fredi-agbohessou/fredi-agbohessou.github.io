@@ -68,15 +68,28 @@ function toggleTOC() {
 ---
 
 ### Hello and Welcome! 👋
-I'm Yélognissè Frédi Agbohessou from Benin. I'm a research scientist with a love for history, nature, photography, and football. My research focuses on the application of modeling and spatial data science to address challenges in ecology, agroforestry, agronomy, and forestry. My work aims to tackle issues related to food security and the impact of climate change on ecosystems.
+I'm Yélognissè Frédi Agbohessou, a research scientist with a passion for history, nature, photography, and football. Through experimentation, modeling techniques, and geospatial data analysis, I aim to contribute to solutions for food security and to mitigate the impact of climate change on ecosystems. My research spans across ecology, agroforestry, agronomy, forestry, biogeosciences...
 
 I am currently working as a postdoctoral researcher at [UMR Eco&Sols](https://www.umr-ecosols.fr/)/[Cirad](https://www.cirad.fr/en), focusing on modeling the impact of climatic stresses on the functioning of rubber trees (*Hevea brasiliensis*).
+
+---
+
+### My optinion on growth and sustainability
+
+Economic growth is crucial for advancing scientific research and raising the standard of living of people around the world. However, this growth often comes at the expense of natural resources (after all, we only have one Earth, the only planet currently inhabited by humans). One of the greatest challenges of our century, in my view, is finding a way to sustain growth and progress without destroying the ecosystems that support life on Earth.
+
+Science has a key role to play in this endeavor. We are increasingly relying on scientific breakthroughs to solve these global issues, and history shows that science has helped us avert disaster in the past. As an optimistic scientist, I believe we have the potential to continue making groundbreaking discoveries that will steer humanity toward a better future.
+
+However, optimism alone isn't enough. It’s our responsibility to actively work toward making these scientific "miracles" happen for future generations. Should we limit growth for the sake of ecology? While this might seem like a tempting solution, it’s not ideal—particularly for developing countries where economic growth is even more essential. The solution is far more complex. While some guidelines already exist, they have not been fully implemented, particularly by governments that have a larger global impact. Greater investment in scientific research, along with collective efforts toward sustainability, are crucial steps forward.
+
+I believe in science because I have faith in our collective ability to make discoveries and innovations that can change humanity's trajectory toward a future that surpasses even the best climate scenarios. However, to achieve this, we must keep striving and searching for solutions, rather than simply setting climate goals without taking concrete action.
 
 ---
 
 ### Interests 🌿
 - 🌳 Agroforestry
 - 🌎 Ecological modeling
+- ♻️ Sustainable Development
 - 🌡️ Climate Change
 - 🌱 Biogeosciences
 - 🛰️ Remote sensing
