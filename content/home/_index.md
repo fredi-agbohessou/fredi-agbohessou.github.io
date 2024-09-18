@@ -43,6 +43,7 @@ toc: true
   <div id="toc">
     <ul>
       <li><a href="#hello-and-welcome-">👋 Hello and Welcome!</a></li>
+      <li><a href="#my-optinion-on-growth-and-sustainability-">📈🌱 My optinion on growth and sustainability</a></li>
       <li><a href="#interests-">🌿 Interests</a></li>
       <li><a href="#education-">🎓 Education</a></li>
       <li><a href="#experience-">💼 Experience</a></li>
@@ -68,15 +69,15 @@ function toggleTOC() {
 ---
 
 ### Hello and Welcome! 👋
-I'm Yélognissè Frédi Agbohessou, a research scientist with a passion for history, nature, photography, and football. Through experimentation, modeling techniques, and geospatial data analysis, I aim to contribute to solutions for food security and to mitigate the impact of climate change on ecosystems. My research spans across ecology, agroforestry, agronomy, forestry, biogeosciences...
+My name is Yélognissè Frédi Agbohessou, and I am a research scientist with a deep passion for history, nature, photography, and football. My work primarily involves modeling the water, carbon, and nitrogen cycles in tree, herbaceous, and crop-based ecosystems, with a focus on climate change, productivity, and food security. I integrate data from field experiments, eddy covariance systems, remote sensing, and open-source software, alongside process-based models, to investigate the soil-plant-atmosphere continuum at both local and regional scales.
 
 I am currently working as a postdoctoral researcher at [UMR Eco&Sols](https://www.umr-ecosols.fr/)/[Cirad](https://www.cirad.fr/en), focusing on modeling the impact of climatic stresses on the functioning of rubber trees (*Hevea brasiliensis*).
 
 ---
 
-### My optinion on growth and sustainability
+### My optinion on growth and sustainability 📈🌱
 
-Economic growth is crucial for advancing scientific research and raising the standard of living of people around the world. However, this growth often comes at the expense of natural resources (after all, we only have one Earth, the only planet currently inhabited by humans). One of the greatest challenges of our century, in my view, is finding a way to sustain growth and progress without destroying the ecosystems that support life on Earth.
+Economic growth is crucial for advancing scientific research and raising the standard of living of people around the world. However, this growth comes at the expense of our natural resources (after all, we only have one Earth, the only planet currently inhabited by humans). One of the greatest challenges of our century, in my view, is finding a way to sustain growth and progress without destroying the ecosystems that support life on Earth.
 
 Science has a key role to play in this endeavor. We are increasingly relying on scientific breakthroughs to solve these global issues, and history shows that science has helped us avert disaster in the past. As an optimistic scientist, I believe we have the potential to continue making groundbreaking discoveries that will steer humanity toward a better future.
 
@@ -117,14 +118,34 @@ plot to stand in an agro-silvo-pastoral system through a geostatistical-based me
 ---
 
 ### Training 📚
-- **May 2023 to August 2023**: Online Course, Udemy Online - **Explore Data Science with Julia**, [See certificate](https://www.udemy.com/certificate/UC-464f0a38-4ab3-4906-97f1-6b354a5c8e71/)
-- **May 2021 to July 2021**: Online Course, Udemy Online - **Introduction to Time Series Analysis and Forecasting in R**, [See certificate](https://www.udemy.com/certificate/UC-bd146d69-9c75-45ab-8542-92a1796d65a1/)
-- **March 2021 to August 2021**: Online Course, Udemy Online - **R Programming for Statistics and Data Science 2021**, [See certificate](https://www.udemy.com/certificate/UC-017e4eeb-b45b-4718-83de-d3ba951c654f/)
-- **January 2021 to February 2021**: Online Course, Udemy Online - **Applied Statistical Modeling for Data Analysis in R**: Complete guide to statistical data analysis & visualization for practical applications in R, [See certificate](https://www.udemy.com/certificate/UC-bcc89c9c-7a42-43c1-a79b-cadc290e4109/)
-- **December 2020 to January 2021**: Online Course, Udemy Online - **Complete Google Earth Engine for Remote Sensing & GIS**: Hands-on training with real remote sensing and GIS data analysis with Google Earth Engine, [See certificate](https://www.udemy.com/certificate/UC-39582869-fc1d-497e-99f3-7b1ecab7c982/)
-- **Since October 2020**: Online Course, CIRAD Dakar, Senegal - **STICS and MAESPA** (initialization, calibration, and simulations)
-- **October 2019**: One-week training with Michel Giner (CIRAD) in Dakar, Senegal - **Design of experimental databases for modeling in STICS**: (1) Designing a database with Microsoft Access, (2) Importing/exporting data between Access and Excel, (3) Queries in Access
 
+- **April 2024 to July 2024**: Online Course, Udemy Online - ***Fortran Programming Complete Course***, [Course](https://www.udemy.com/course/fortran-course/)
+
+- **May 2023 to August 2023**: Online Course, Udemy Online - ***Explore Data Science with Julia***, [See certificate](https://www.udemy.com/certificate/UC-464f0a38-4ab3-4906-97f1-6b354a5c8e71/)
+
+- **September 11th to 17th 2022**: CMRA 2022 Summer School organised by ZALF and ICRISAT - ***Modelling approaches for climate risk and climate change adaptations in the context of sustainable intensification in semi-arid West Africa: Case study with the APSIM model***,  [See certificate](Modellingworkshop.pdf) 
+
+- **Jun 2021 to September 2021**: Online Course, Datacamp Online - ***Data Manipulation with pandas***, [See certificate](certificate_python4.pdf) 
+
+- **Jun 2021 to September 2021**: Online Course, Datacamp Online - ***Introduction to Shell***, [See certificate](certificate_python3.pdf) 
+
+- **Jun 2021 to September 2021**: Online Course, Datacamp Online - ***Intermediate Python***, [See certificate](certificate_python2.pdf) 
+
+- **Jun 2021 to September 2021**: Online Course, Datacamp Online - ***Introduction to Python***, [See certificate](certificate_python1.pdf) 
+
+- **May 2021 to July 2021**: Online Course, Udemy Online - ***Introduction to Time Series Analysis and Forecasting in R***, [See certificate](https://www.udemy.com/certificate/UC-bd146d69-9c75-45ab-8542-92a1796d65a1/)
+
+- **March 2021 to August 2021**: Online Course, Udemy Online - ***R Programming for Statistics and Data Science 2021***, [See certificate](https://www.udemy.com/certificate/UC-017e4eeb-b45b-4718-83de-d3ba951c654f/)
+
+- **January 2021 to February 2021**: Online Course, Udemy Online - ***Applied Statistical Modeling for Data Analysis in R***: Complete guide to statistical data analysis & visualization for practical applications in R, [See certificate](https://www.udemy.com/certificate/UC-bcc89c9c-7a42-43c1-a79b-cadc290e4109/)
+
+- **December 2020 to January 2021**: Online Course, Udemy Online - ***Complete Google Earth Engine for Remote Sensing & GIS***: Hands-on training with real remote sensing and GIS data analysis with Google Earth Engine, [See certificate](https://www.udemy.com/certificate/UC-39582869-fc1d-497e-99f3-7b1ecab7c982/)
+
+- **Since October 2020**: Online Course, CIRAD Dakar, Senegal - ***STICS and MAESPA*** (initialization, calibration, and simulations)
+
+- **October 2019**: One-week training with Michel Giner (CIRAD) in Dakar, Senegal - ***Design of experimental databases for modeling in STICS***: (1) Designing a database with Microsoft Access, (2) Importing/exporting data between Access and Excel, (3) Queries in Access
+
+- **January 2016**: Training with Dr. Abdelaziz Lawani (Eastern Kentucky University) in Tanguiéta, Benin - ***Drone Setup and Usage for Park Conservation***
 
 ---
 
@@ -143,10 +164,12 @@ table {
 |      🌟 **Skill**                | **Proficiency** |
 |---------------------------------|-----------------|
 | 📈 **Statistics**               | ██████████░░░░ | 70%
-| 💻 **Programming**              | ███████░░░░░░░ | 50%
+| 💻 **Programming**              | ██████████░░░░ | 70%
 | 🗺️ **GIS**                     | ██████████░░░░ | 70%
 | 🌳 **Ecology & Agroforestry**   | ██████████████░ | 90%
 | 🧩 **Modelling**                | ██████████░░░░ | 70%
 | 🗣️ **Scientific Communication**| ██████████░░░░ | 70%
 
 </div>
+
+---

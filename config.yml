@@ -23,7 +23,7 @@ menu:
         - name: Courses
           url: courses/
           weight: 4
-        - name: Maps
+        - name: Gallery
           url: maps/
           weight: 5
         - name: Code
@@ -59,12 +59,12 @@ params:
 
     profileMode:
           enabled: true
-          title: Yélognissè Agbohessou
+          title: Yélognissè Frédi Agbohessou
           subtitle: "I am a **postdoctoral researcher** at [UMR Eco&Sols](https://www.umr-ecosols.fr/)/[Cirad](https://www.cirad.fr/en), working on *modeling the impact of climatic stresses on the functioning of rubber trees (*Hevea brasiliensis*)*. I am specializing in modeling for ecology, agroforestry, agronomy, and forestry."
           imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Yélognissè Agbohessou
+          imageTitle: Yélognissè Frédi Agbohessou
           buttons:
             - name: Home
               url: home
