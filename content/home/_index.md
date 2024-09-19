@@ -69,7 +69,7 @@ function toggleTOC() {
 ---
 
 ### Hello and Welcome! 👋
-My name is Yélognissè Frédi Agbohessou, and I am a research scientist with a deep passion for history, nature, photography, and football. My work primarily involves modeling the water, carbon, and nitrogen cycles in tree, herbaceous, and crop-based ecosystems, with a focus on climate change, productivity, and food security. I integrate data from field experiments, eddy covariance systems, remote sensing, and open-source software, alongside process-based models, to investigate the soil-plant-atmosphere continuum at both local and regional scales.
+My name is Yélognissè Frédi Agbohessou, and I am a research scientist originally from Benin and currently based in Montpellier. My work primarily involves modeling the water, carbon, and nitrogen cycles in tree, herbaceous, and crop-based ecosystems, with a focus on climate change, productivity, and food security. I integrate data from field experiments, eddy covariance systems, remote sensing, and open-source software, alongside process-based models, to investigate the soil-plant-atmosphere continuum at both local and regional scales.
 
 I am currently working as a postdoctoral researcher at [UMR Eco&Sols](https://www.umr-ecosols.fr/)/[Cirad](https://www.cirad.fr/en), focusing on modeling the impact of climatic stresses on the functioning of rubber trees (*Hevea brasiliensis*).
 
@@ -91,6 +91,7 @@ I believe in science because I have faith in our collective ability to make disc
 - 🌳 Agroforestry
 - 🌎 Ecological modeling
 - ♻️ Sustainable Development
+- 📈 Data analytics and digital tools
 - 🌡️ Climate Change
 - 🌱 Biogeosciences
 - 🛰️ Remote sensing
