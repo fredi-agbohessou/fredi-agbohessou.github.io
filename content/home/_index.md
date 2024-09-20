@@ -48,6 +48,7 @@ toc: true
       <li><a href="#experience-">💼 Experience</a></li>
       <li><a href="#training-">📚 Training</a></li>
       <li><a href="#skills-">🎯 Skills</a></li>
+      <li><a href="#leadership-service-and-community-engagement-">🤝 Leadership, service and community engagement</a></li>
       <li><a href="#my-optinion-on-growth-and-sustainability-">📈🌱 My optinion on growth and sustainability</a></li>
     </ul>
   </div>
@@ -114,7 +115,7 @@ plot to stand in an agro-silvo-pastoral system through a geostatistical-based me
 
 - 2022: **Modelling approaches for climate risk and climate change adaptations in the context of sustainable intensification in semi-arid West Africa: Case study with the APSIM model**, CMRA 2022 Summer School organised by ZALF and ICRISAT, Thies, Senegal, [See certificate of completion](Modellingworkshop.pdf) 
 
-- 2021: **Data Visualization and Geospatial Analysis with R, Leah Kocian, Shubham Jain, Alan Lewis & Vinit Sehgal (Texas A&M University), New Orleans, USA
+- 2021: **Data Visualization and Geospatial Analysis with R**, Leah Kocian, Shubham Jain, Alan Lewis & Vinit Sehgal (Texas A&M University), New Orleans, USA
 
 - 2021: **Data Manipulation with pandas**, Datacamp, Online, [See certificate of completion](certificate_python4.pdf) 
 
@@ -162,6 +163,22 @@ table {
 | 🗣️ **Scientific Communication**| ██████████░░░░ | 70%
 
 </div>
+
+---
+
+### Leadership, service and community engagement 🤝
+
+- Since 2022: **Member of European Geosciences Union**, Vienna, Austria
+
+- 2021: **Member of American Geophysical Union**, USA
+
+- 2017: **Volunteer - reforestation campaign in Zogbodomey**, ONAB Zogbodomey, Benin
+
+- 2017: **Member of the Young African Leaders Initiative**, (YALY) Network Dakar, Senegal
+
+- 2015: **Volunteer - reforestation campaign in Djidja**, Forest Station of Abomey Djidja, Benin
+
+- From 2014 to 2016: **Children's instructor on biblical studies** at MEF (Mission Evangélique de la Foi) Church Kandi, Benin
 
 ---
 
