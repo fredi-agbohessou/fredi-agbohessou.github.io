@@ -69,6 +69,8 @@ function toggleTOC() {
 
 ### <a id="research-articles">📚Research Articles</a>
 
+- **Wieckowski, A., Vestin, P., Ardö, J., Diatta, O., Roupsard, O., Ndiaye, O., Ba, S., Agbohessou, Y., Fensholt, R., Verbruggen, W.,Tagesson, T.** (2024). *Eddy covariance measurements reveal a decreased carbon sequestration strength 2010-2022 in an African semi-arid savanna.* Accepted for publication in Global Change Biology
+
 - **Agbohessou, Y., Delon, C., Grippa, M., Mougin, E., Ngom, D., Gaglo, E.K., Ndiaye, O., Salgado, P., Roupsard, O.** (2024). *Modelling CO2 and N2O emissions from soils in silvopastoral systems of the West African Sahelian band.* Biogeosciences, 21, 2811–2837. [https://doi.org/10.5194/bg-21-2811-2024](https://doi.org/10.5194/bg-21-2811-2024)
 
 - **Sow, S., Senghor, Y., Sadio, K., Vezy, R., Roupsard, O., Affholder, F., N’dienor, M., Clermont-Dauphin, C., Gaglo, E.K., Ba, S., Tounkara, A., Balde, A.B., Agbohessou, Y., Seghieri, J., Sall, S.N., Couedel, A., Leroux, L., Jourdan, C., Diaite, D.S., Falconnier, G.N.** (2023). *Calibrating the STICS soil-crop model to explore the impact of agroforestry parklands on millet growth.* Field Crops Research, 306, 109206. [https://doi.org/10.1016/j.fcr.2023.109206](https://doi.org/10.1016/j.fcr.2023.109206)
