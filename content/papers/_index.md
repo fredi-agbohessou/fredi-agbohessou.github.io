@@ -69,7 +69,8 @@ function toggleTOC() {
 
 ### <a id="research-articles">📚Research Articles</a>
 
-- **Wieckowski, A., Vestin, P., Ardö, J., Diatta, O., Roupsard, O., Ndiaye, O., Ba, S., Agbohessou, Y., Fensholt, R., Verbruggen, W.,Tagesson, T.** (2024). *Eddy covariance measurements reveal a decreased carbon sequestration strength 2010-2022 in an African semi-arid savanna.* Accepted for publication in Global Change Biology
+- **Wieckowski, A., Vestin, P., Ardö, J., Roupsard, O., Ndiaye, O., Diatta, O., Ba, S., Agbohessou, Y., Fensholt, R., Verbruggen, W., Gebremedhn, H. H., & Tagesson, T.** (2024). *Eddy covariance measurements reveal a decreased carbon sequestration strength 2010–2022 in an African semiarid savanna.* Global Change Biology, 30, e17509. [https://doi.org/10.1111/gcb.17509](https://doi.org/10.1111/gcb.17509)
+
 
 - **Agbohessou, Y., Delon, C., Grippa, M., Mougin, E., Ngom, D., Gaglo, E.K., Ndiaye, O., Salgado, P., Roupsard, O.** (2024). *Modelling CO2 and N2O emissions from soils in silvopastoral systems of the West African Sahelian band.* Biogeosciences, 21, 2811–2837. [https://doi.org/10.5194/bg-21-2811-2024](https://doi.org/10.5194/bg-21-2811-2024)
 
