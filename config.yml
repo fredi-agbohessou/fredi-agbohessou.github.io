@@ -60,7 +60,7 @@ params:
     profileMode:
           enabled: true
           title: Yélognissè Frédi Agbohessou
-          subtitle: "I am a **postdoctoral researcher** at [UMR Eco&Sols](https://www.umr-ecosols.fr/)/[Cirad](https://www.cirad.fr/en), working on *modeling the impact of climatic stresses on the functioning of rubber trees (*Hevea brasiliensis*)*. I am specializing in modeling for ecology, agroforestry, agronomy, and forestry."
+          subtitle: "Hello and Welcome! 👋 I am a **postdoctoral researcher** at [UMR Eco&Sols](https://www.umr-ecosols.fr/)/[Cirad](https://www.cirad.fr/en), working on *modeling the impact of climatic stresses on the functioning of rubber trees (*Hevea brasiliensis*)*."
           imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
