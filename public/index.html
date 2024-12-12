@@ -83,15 +83,15 @@
 
 </head>
 
-<body class="list" id="top">
+<body class="list dark" id="top">
     <main class="main"><div class="profile">
     <div class="profile_inner">
         <img draggable="false" src="http://localhost:1313/picture.png" alt="Yélognissè Frédi Agbohessou" title="Yélognissè Frédi Agbohessou"
             height="160" width="160" />
         <h1>Yélognissè Frédi Agbohessou</h1>
-        <span>I am a <strong>postdoctoral researcher</strong> at <a href="https://www.umr-ecosols.fr/" target="_blank">UMR Eco&amp;Sols</a>
+        <span>Hello and Welcome! 👋 I am a <strong>postdoctoral researcher</strong> at <a href="https://www.umr-ecosols.fr/" target="_blank">UMR Eco&amp;Sols</a>
 /<a href="https://www.cirad.fr/en" target="_blank">Cirad</a>
-, working on <em>modeling the impact of climatic stresses on the functioning of rubber trees (<em>Hevea brasiliensis</em>)</em>. I am specializing in modeling for ecology, agroforestry, agronomy, and forestry.</span><div class="social-icons">
+, working on <em>modeling the impact of climatic stresses on the functioning of rubber trees (<em>Hevea brasiliensis</em>)</em>.</span><div class="social-icons">
     <a href="mailto:fredi.agbohessou@cirad.fr" target="_blank" rel="noopener noreferrer me" title="Email">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
@@ -198,6 +198,18 @@
             }
         });
     });
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

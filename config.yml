@@ -37,9 +37,9 @@ params:
     #author: Me
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light #auto #light dark auto
+    defaultTheme: dark #auto #light dark auto
+    disableThemeToggle: false
     hideFooter: false
-    disableThemeToggle: true
     
     ShowShareButtons: false
     ShowReadingTime: false
@@ -56,6 +56,7 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+
 
     profileMode:
           enabled: true
