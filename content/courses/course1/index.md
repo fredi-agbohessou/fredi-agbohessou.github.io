@@ -12,7 +12,12 @@ showToc: false
 disableAnchoredHeadings: false
 
 ---
-
+<style>
+  /* Force overall text size reduction */
+body, p, div, span, li, td, th {
+  font-size: 1.0em !important;
+}
+</style>
 ---
 
 Ce cours couvre les sujets liés à l'analyse des données géospatiales. Il tente de répondre à plusieurs questions : 

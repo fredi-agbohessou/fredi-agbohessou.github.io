@@ -5,36 +5,42 @@ view: 2
 ---
 
 <style>
+  /* Force overall text size reduction */
+body, p, div, span, li, td, th {
+  font-size: 1.0em !important;
+}
+
 #description {
   color: grey;
   font-size: 1.1em;
-  font-weight: bold;
   text-align: center
 }
 
+/* Table of contents box styling */
 #toc {
   display: none;
   margin-top: 10px;
   padding: 10px;
   border: 2px solid #f0f0f0;
   background-color: #f0f0f0;
-  font-size: 0.9em;
+  font-size: 0.8em;
 }
 
+/* TOC toggle button */
 #toggle-button {
   cursor: pointer;
   color: blue;
   text-decoration: underline;
   display: inline-flex;
   align-items: center;
-  font-weight: bold;
+  font-size: 0.9em;
 }
 
+/* TOC arrow */
 #arrow {
   margin-left: 5px;
   transition: transform 0.3s;
 }
-
 #arrow.rotate {
   transform: rotate(90deg);
 }

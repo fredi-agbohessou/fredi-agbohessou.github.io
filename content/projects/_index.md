@@ -4,10 +4,14 @@ description: "Explore some of the current and past research projects I have part
 ---
 
 <style>
+  /* Force overall text size reduction */
+body, p, div, span, li, td, th {
+  font-size: 1.0em !important;
+}
+
 #description {
   color: grey;
   font-size: 1.1em;
-  font-weight: bold;
   text-align: center
 }
 

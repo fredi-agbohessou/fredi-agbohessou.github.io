@@ -6,28 +6,38 @@ toc: true
 ---
 
 <style>
+/* Force overall text size reduction */
+body, p, div, span, li, td, th {
+  font-size: 1.0em !important;
+}
+
 #description {
   color: grey;
   font-size: 1.1em;
-  font-weight: bold;
   text-align: center
 }
+
+/* Table of contents box styling */
 #toc {
   display: none;
   margin-top: 10px;
   padding: 10px;
   border: 2px solid #f0f0f0;
   background-color: #f0f0f0;
-  font-size: 0.9em;
+  font-size: 0.8em;
 }
+
+/* TOC toggle button */
 #toggle-button {
   cursor: pointer;
   color: blue;
   text-decoration: underline;
   display: inline-flex;
   align-items: center;
-  font-weight: bold;
+  font-size: 0.9em;
 }
+
+/* TOC arrow */
 #arrow {
   margin-left: 5px;
   transition: transform 0.3s;
@@ -35,6 +45,7 @@ toc: true
 #arrow.rotate {
   transform: rotate(90deg);
 }
+
 </style>
 
 <div>
@@ -44,12 +55,9 @@ toc: true
     <ul>
       <li><a href="#hello-and-welcome-">👋 Hello and Welcome!</a></li>
       <li><a href="#interests-">🌿 Interests</a></li>
-      <li><a href="#education-">🎓 Education</a></li>
       <li><a href="#experience-">💼 Experience</a></li>
       <li><a href="#training-">📚 Training</a></li>
-      <li><a href="#skills-">🎯 Skills</a></li>
       <li><a href="#leadership-service-and-community-engagement-">🤝 Leadership, service and community engagement</a></li>
-      <li><a href="#my-optinion-on-growth-and-sustainability-">📈🌱 My optinion on growth and sustainability</a></li>
     </ul>
   </div>
 </div>
@@ -67,38 +75,37 @@ function toggleTOC() {
   }
 }
 </script>
+
 ---
 
 ### Hello and Welcome! 👋
-My name is Yélognissè Frédi Agbohessou, and I am a research scientist originally from Benin and currently based in Montpellier. My work focuses on modeling the energy budget and the water, carbon, and nitrogen cycles in tropical ecosystems, with an emphasis on GHG emissions, climate change, productivity, and food security. I integrate data from field experiments, eddy covariance systems, and remote sensing with process-based models to analyze ecosystem responses and adaptation strategies from local to regional scales.
+I am a **researcher** at [UPR aïda](https://www.cirad.fr/nous-connaitre/unites-de-recherche/aida)/[Cirad](https://www.cirad.fr/en), working on agronomy, climate change adaptation and mitigation, with a focus on tropical ecosystems. 
 
-I am currently working as a postdoctoral researcher at [UMR Eco&Sols](https://www.umr-ecosols.fr/)/[Cirad](https://www.cirad.fr/en), focusing on modeling the impact of climatic stresses on the functioning of rubber trees (*Hevea brasiliensis*).
+My current research focuses on designing agricultural systems that are more productive, resilient to climate change, and emit significantly fewer greenhouse gases. Specifically, I aim to generate insights into the biogeophysical impacts (e.g., albedo, surface infrared radiation, evapotranspiration) of various agricultural practices. The goal is to better understand how these practices can contribute to both mitigating and adapting to climate change in tropical regions. To achieve this, my approach combines field experiments with modeling techniques and upscaling to examine the broader implications of these practices on a larger, more applicable scale.
+
+My previous works focused on modeling the energy budget and the water, carbon, and nitrogen cycles in tropical ecosystems (in West-Africa and South-East Asia) with an emphasis on GHG emissions, climate change, productivity, and food security.
+
+I integrate data from field experiments, eddy covariance systems, and remote sensing with process-based models to analyze ecosystem responses and adaptation strategies from local to regional scales.
 
 ---
 
 ### Interests 🌿
-- 🌳 Agroforestry
-- 🌎 Ecological modeling
-- ♻️ Sustainable Development
-- 📈 Data analytics and digital tools
-- 🌡️ Climate Change
+- 🌳 Agronomy & Agroforestry
+- 🌡️ Climate Change 
 - 🌱 Biogeosciences
+- 🌎 Field experimentation & Modeling
+- 📈 Data analytics and digital tools
 - 🛰️ Remote sensing
-- 🥗 Food security 
-- 🌍 West Africa
+- 🥗 Food security
+- ♻️ Sustainable Development
+- 🌍 Africa
 - 🌏 South-East Asia
 
 ---
 
-### Education 🎓
-- **PhD in Ecology and Agroforestry** &#8729; Cheikh Anta Diop University &#8729; 2024
-- **MSc in Agroforestry Ecology and Adaptation** &#8729; Cheikh Anta Diop University &#8729; 2020
-- **BSc in Wildlife and Protected Area Management** &#8729; University of Parakou &#8729; 2016
-
----
-
 ### Experience 💼
-- **Postdoctoral Researcher** &#8729; modeling the impact of climatic stresses on the functioning of rubber trees (*Hevea brasiliensis*) &#8729; *Cirad (Montpellier, France)* &#8729; ongoing
+- **Researcher** &#8729; agronomy, climate change adaptation & mitigation in tropical ecosystems &#8729; *Cirad (Montpellier, France)* &#8729; 05/2025 - ongoing
+- **Postdoctoral Researcher** &#8729; modeling the impact of climatic stresses on the functioning of rubber trees (*Hevea brasiliensis*) &#8729; *Cirad (Montpellier, France)* &#8729; 05/2024 - 04/2025
 - **PhD Researcher** &#8729; Modeling greenhouse gas balance in agro-silvo-pastoral systems of the Sahel: from plot to landscape &#8729; *ISRA / LMI IESOL / Lero (Dakar, Senegal and Toulouse, France)* &#8729; 01/2021 - 03/2024
 - **Internship in Agronomy/Remote Sensing/Biostatistics** &#8729; Using drones to upscale yield and land-equivalent-ratio (LER) from
 plot to stand in an agro-silvo-pastoral system through a geostatistical-based method &#8729; *IRD / ISRA (Dakar, Senegal)* &#8729; 04/2019 - 12/2020
@@ -141,31 +148,6 @@ plot to stand in an agro-silvo-pastoral system through a geostatistical-based me
 
 ---
 
-### Skills 🎯
-<style>
-table {
-    width: 100%; /* Ensures the table takes full width */
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 17px; /* Adjust the size as needed */
-}
-</style>
-
-<div style="margin: 0 auto; width: fit-content;">
-
-|      🌟 **Skill**                | **Proficiency** |
-|---------------------------------|-----------------|
-| 📈 **Statistics**               | ██████████░░░░ | 70%
-| 💻 **Programming**              | ██████████░░░░ | 70%
-| 🗺️ **GIS**                     | ██████████░░░░ | 70%
-| 🌳 **Ecology & Agroforestry**   | ██████████████░ | 90%
-| 🧩 **Modelling**                | ██████████░░░░ | 70%
-| 🗣️ **Scientific Communication**| ██████████░░░░ | 70%
-
-</div>
-
----
-
 ### Leadership, service and community engagement 🤝
 
 - Since 2022: **Member of European Geosciences Union**, Vienna, Austria
@@ -179,17 +161,3 @@ table {
 - 2015: **Volunteer - reforestation campaign in Djidja**, Forest Station of Abomey Djidja, Benin
 
 - From 2014 to 2016: **Children's instructor on biblical studies** at MEF (Mission Evangélique de la Foi) Church Kandi, Benin
-
----
-
-### My optinion on growth and sustainability 📈🌱
-
-Economic growth is crucial for advancing scientific research and raising the standard of living of people around the world. However, this growth comes at the expense of our natural resources (after all, we only have one Earth, the only planet currently inhabited by humans). One of the greatest challenges of our century, in my view, is finding a way to sustain growth and progress without destroying the ecosystems that support life on Earth.
-
-Science has a key role to play in this endeavor. We are increasingly relying on scientific breakthroughs to solve these global issues, and history shows that science has helped us avert disaster in the past. As an optimistic scientist, I believe we have the potential to continue making groundbreaking discoveries that will steer humanity toward a better future.
-
-However, optimism alone isn't enough. It’s our responsibility to actively work toward making these scientific "miracles" happen for future generations. Should we limit growth for the sake of ecology? While this might seem like a tempting solution, it’s not ideal—particularly for developing countries where economic growth is even more essential. The solution is far more complex. While some guidelines already exist, they have not been fully implemented, particularly by governments that have a larger global impact. Greater investment in scientific research, along with collective efforts toward sustainability, are crucial steps forward.
-
-I believe in science because I have faith in our collective ability to make discoveries and innovations that can change humanity's trajectory toward a future that surpasses even the best climate scenarios. However, to achieve this, we must keep striving and searching for solutions, rather than simply setting climate goals without taking concrete action.
-
----

@@ -9,10 +9,11 @@
 <meta name="keywords" content="">
 <meta name="description" content="About me
 Table of Contents ➤
-👋 Hello and Welcome!🌿 Interests🎓 Education💼 Experience📚 Training🎯 Skills🤝 Leadership, service and community engagement📈🌱 My optinion on growth and sustainabilityHello and Welcome! 👋 My name is Yélognissè Frédi Agbohessou, and I am a research scientist originally from Benin and currently based in Montpellier. My work focuses on modeling the energy budget and the water, carbon, and nitrogen cycles in tropical ecosystems, with an emphasis on GHG emissions, climate change, productivity, and food security.">
+👋 Hello and Welcome!🌿 Interests💼 Experience📚 Training🤝 Leadership, service and community engagementHello and Welcome! 👋 I am a researcher at UPR aïda/Cirad, working on agronomy, climate change adaptation and mitigation, with a focus on tropical ecosystems.
+My current research focuses on designing agricultural systems that are more productive, resilient to climate change, and emit significantly fewer greenhouse gases.">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/home/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.4ce4aa46ceaa033d07be37abd3e9517e7ac25031f352181d7af3f3523bcd9425.css" integrity="sha256-TOSqRs6qAz0Hvjer0&#43;lRfnrCUDHzUhgdevPzUjvNlCU=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.a26c28fcbc050b5ecd5497d415961cf744349bd2a5bfcd1fa41f846306764a32.css" integrity="sha256-omwo/LwFC17NVJfUFZYc90Q0m9Klv80fpB&#43;EYwZ2SjI=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
@@ -86,13 +87,7 @@ Table of Contents ➤
 
 </head>
 
-<body class="list dark" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    }
-
-</script>
+<body class="list" id="top">
 
 <header class="header">
     <nav class="nav">
@@ -103,26 +98,6 @@ Table of Contents ➤
                     height="18"
                     width="18">Yélognissè Agbohessou</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
                 <ul class="lang-switch"><li>|</li>
                 </ul>
             </div>
@@ -164,28 +139,38 @@ Table of Contents ➤
 
     <main class="main"> 
 <div class="post-content"><style>
+/* Force overall text size reduction */
+body, p, div, span, li, td, th {
+  font-size: 1.0em !important;
+}
+
 #description {
   color: grey;
   font-size: 1.1em;
-  font-weight: bold;
   text-align: center
 }
+
+/* Table of contents box styling */
 #toc {
   display: none;
   margin-top: 10px;
   padding: 10px;
   border: 2px solid #f0f0f0;
   background-color: #f0f0f0;
-  font-size: 0.9em;
+  font-size: 0.8em;
 }
+
+/* TOC toggle button */
 #toggle-button {
   cursor: pointer;
   color: blue;
   text-decoration: underline;
   display: inline-flex;
   align-items: center;
-  font-weight: bold;
+  font-size: 0.9em;
 }
+
+/* TOC arrow */
 #arrow {
   margin-left: 5px;
   transition: transform 0.3s;
@@ -193,6 +178,7 @@ Table of Contents ➤
 #arrow.rotate {
   transform: rotate(90deg);
 }
+
 </style>
 <div>
   <p id="description">About me</p>
@@ -201,12 +187,9 @@ Table of Contents ➤
     <ul>
       <li><a href="#hello-and-welcome-">👋 Hello and Welcome!</a></li>
       <li><a href="#interests-">🌿 Interests</a></li>
-      <li><a href="#education-">🎓 Education</a></li>
       <li><a href="#experience-">💼 Experience</a></li>
       <li><a href="#training-">📚 Training</a></li>
-      <li><a href="#skills-">🎯 Skills</a></li>
       <li><a href="#leadership-service-and-community-engagement-">🤝 Leadership, service and community engagement</a></li>
-      <li><a href="#my-optinion-on-growth-and-sustainability-">📈🌱 My optinion on growth and sustainability</a></li>
     </ul>
   </div>
 </div>
@@ -225,35 +208,31 @@ function toggleTOC() {
 </script>
 <hr>
 <h3 id="hello-and-welcome-">Hello and Welcome! 👋</h3>
-<p>My name is Yélognissè Frédi Agbohessou, and I am a research scientist originally from Benin and currently based in Montpellier. My work focuses on modeling the energy budget and the water, carbon, and nitrogen cycles in tropical ecosystems, with an emphasis on GHG emissions, climate change, productivity, and food security. I integrate data from field experiments, eddy covariance systems, and remote sensing with process-based models to analyze ecosystem responses and adaptation strategies from local to regional scales.</p>
-<p>I am currently working as a postdoctoral researcher at <a href="https://www.umr-ecosols.fr/" target="_blank">UMR Eco&amp;Sols</a>
+<p>I am a <strong>researcher</strong> at <a href="https://www.cirad.fr/nous-connaitre/unites-de-recherche/aida" target="_blank">UPR aïda</a>
 /<a href="https://www.cirad.fr/en" target="_blank">Cirad</a>
-, focusing on modeling the impact of climatic stresses on the functioning of rubber trees (<em>Hevea brasiliensis</em>).</p>
+, working on agronomy, climate change adaptation and mitigation, with a focus on tropical ecosystems.</p>
+<p>My current research focuses on designing agricultural systems that are more productive, resilient to climate change, and emit significantly fewer greenhouse gases. Specifically, I aim to generate insights into the biogeophysical impacts (e.g., albedo, surface infrared radiation, evapotranspiration) of various agricultural practices. The goal is to better understand how these practices can contribute to both mitigating and adapting to climate change in tropical regions. To achieve this, my approach combines field experiments with modeling techniques and upscaling to examine the broader implications of these practices on a larger, more applicable scale.</p>
+<p>My previous works focused on modeling the energy budget and the water, carbon, and nitrogen cycles in tropical ecosystems (in West-Africa and South-East Asia) with an emphasis on GHG emissions, climate change, productivity, and food security.</p>
+<p>I integrate data from field experiments, eddy covariance systems, and remote sensing with process-based models to analyze ecosystem responses and adaptation strategies from local to regional scales.</p>
 <hr>
 <h3 id="interests-">Interests 🌿</h3>
 <ul>
-<li>🌳 Agroforestry</li>
-<li>🌎 Ecological modeling</li>
-<li>♻️ Sustainable Development</li>
-<li>📈 Data analytics and digital tools</li>
+<li>🌳 Agronomy &amp; Agroforestry</li>
 <li>🌡️ Climate Change</li>
 <li>🌱 Biogeosciences</li>
+<li>🌎 Field experimentation &amp; Modeling</li>
+<li>📈 Data analytics and digital tools</li>
 <li>🛰️ Remote sensing</li>
 <li>🥗 Food security</li>
-<li>🌍 West Africa</li>
+<li>♻️ Sustainable Development</li>
+<li>🌍 Africa</li>
 <li>🌏 South-East Asia</li>
-</ul>
-<hr>
-<h3 id="education-">Education 🎓</h3>
-<ul>
-<li><strong>PhD in Ecology and Agroforestry</strong> ∙ Cheikh Anta Diop University ∙ 2024</li>
-<li><strong>MSc in Agroforestry Ecology and Adaptation</strong> ∙ Cheikh Anta Diop University ∙ 2020</li>
-<li><strong>BSc in Wildlife and Protected Area Management</strong> ∙ University of Parakou ∙ 2016</li>
 </ul>
 <hr>
 <h3 id="experience-">Experience 💼</h3>
 <ul>
-<li><strong>Postdoctoral Researcher</strong> ∙ modeling the impact of climatic stresses on the functioning of rubber trees (<em>Hevea brasiliensis</em>) ∙ <em>Cirad (Montpellier, France)</em> ∙ ongoing</li>
+<li><strong>Researcher</strong> ∙ agronomy, climate change adaptation &amp; mitigation in tropical ecosystems ∙ <em>Cirad (Montpellier, France)</em> ∙ 05/2025 - ongoing</li>
+<li><strong>Postdoctoral Researcher</strong> ∙ modeling the impact of climatic stresses on the functioning of rubber trees (<em>Hevea brasiliensis</em>) ∙ <em>Cirad (Montpellier, France)</em> ∙ 05/2024 - 04/2025</li>
 <li><strong>PhD Researcher</strong> ∙ Modeling greenhouse gas balance in agro-silvo-pastoral systems of the Sahel: from plot to landscape ∙ <em>ISRA / LMI IESOL / Lero (Dakar, Senegal and Toulouse, France)</em> ∙ 01/2021 - 03/2024</li>
 <li><strong>Internship in Agronomy/Remote Sensing/Biostatistics</strong> ∙ Using drones to upscale yield and land-equivalent-ratio (LER) from
 plot to stand in an agro-silvo-pastoral system through a geostatistical-based method ∙ <em>IRD / ISRA (Dakar, Senegal)</em> ∙ 04/2019 - 12/2020</li>
@@ -321,52 +300,6 @@ plot to stand in an agro-silvo-pastoral system through a geostatistical-based me
 </li>
 </ul>
 <hr>
-<h3 id="skills-">Skills 🎯</h3>
-<style>
-table {
-    width: 100%; /* Ensures the table takes full width */
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 17px; /* Adjust the size as needed */
-}
-</style>
-<div style="margin: 0 auto; width: fit-content;">
-<table>
-<thead>
-<tr>
-<th>🌟 <strong>Skill</strong></th>
-<th><strong>Proficiency</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>📈 <strong>Statistics</strong></td>
-<td>██████████░░░░</td>
-</tr>
-<tr>
-<td>💻 <strong>Programming</strong></td>
-<td>██████████░░░░</td>
-</tr>
-<tr>
-<td>🗺️ <strong>GIS</strong></td>
-<td>██████████░░░░</td>
-</tr>
-<tr>
-<td>🌳 <strong>Ecology &amp; Agroforestry</strong></td>
-<td>██████████████░</td>
-</tr>
-<tr>
-<td>🧩 <strong>Modelling</strong></td>
-<td>██████████░░░░</td>
-</tr>
-<tr>
-<td>🗣️ <strong>Scientific Communication</strong></td>
-<td>██████████░░░░</td>
-</tr>
-</tbody>
-</table>
-</div>
-<hr>
 <h3 id="leadership-service-and-community-engagement-">Leadership, service and community engagement 🤝</h3>
 <ul>
 <li>
@@ -388,19 +321,12 @@ table {
 <p>From 2014 to 2016: <strong>Children&rsquo;s instructor on biblical studies</strong> at MEF (Mission Evangélique de la Foi) Church Kandi, Benin</p>
 </li>
 </ul>
-<hr>
-<h3 id="my-optinion-on-growth-and-sustainability-">My optinion on growth and sustainability 📈🌱</h3>
-<p>Economic growth is crucial for advancing scientific research and raising the standard of living of people around the world. However, this growth comes at the expense of our natural resources (after all, we only have one Earth, the only planet currently inhabited by humans). One of the greatest challenges of our century, in my view, is finding a way to sustain growth and progress without destroying the ecosystems that support life on Earth.</p>
-<p>Science has a key role to play in this endeavor. We are increasingly relying on scientific breakthroughs to solve these global issues, and history shows that science has helped us avert disaster in the past. As an optimistic scientist, I believe we have the potential to continue making groundbreaking discoveries that will steer humanity toward a better future.</p>
-<p>However, optimism alone isn&rsquo;t enough. It’s our responsibility to actively work toward making these scientific &ldquo;miracles&rdquo; happen for future generations. Should we limit growth for the sake of ecology? While this might seem like a tempting solution, it’s not ideal—particularly for developing countries where economic growth is even more essential. The solution is far more complex. While some guidelines already exist, they have not been fully implemented, particularly by governments that have a larger global impact. Greater investment in scientific research, along with collective efforts toward sustainability, are crucial steps forward.</p>
-<p>I believe in science because I have faith in our collective ability to make discoveries and innovations that can change humanity&rsquo;s trajectory toward a future that surpasses even the best climate scenarios. However, to achieve this, we must keep striving and searching for solutions, rather than simply setting climate goals without taking concrete action.</p>
-<hr>
 
 </div>
     </main>
     
 <footer class="footer">
-    &copy; 2024 Yélognissè Agbohessou
+    &copy; 2025 Yélognissè Agbohessou
     <span>
     &middot;  Powered by 
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
@@ -437,18 +363,6 @@ table {
             }
         });
     });
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
 </script>
 </body>
