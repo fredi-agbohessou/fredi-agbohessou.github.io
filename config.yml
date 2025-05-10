@@ -1,127 +1,116 @@
-baseURL: "https://ayfu.github.io/" 
+baseURL: "https://ayfu.github.io/"
 title: Yélognissè Agbohessou
-paginate: 20
+
+pagination:
+  pagerSize: 20
+
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: Home
-          url: home/
-          weight: 1
-        - name: Publications
-          url: papers/
-          weight: 2
-        - name: Projects
-          url: projects/
-          weight: 3
-        - name: Courses
-          url: courses/
-          weight: 4
-        - name: Gallery
-          url: maps/
-          weight: 5
-        - name: Code
-          url: code/
-          weight: 6
-        
-        
+  main:
+    - name: Home
+      url: home/
+      weight: 1
+    - name: Publications
+      url: papers/
+      weight: 2
+    - name: Projects
+      url: projects/
+      weight: 3
+    - name: Courses
+      url: courses/
+      weight: 4
+    - name: Gallery
+      url: maps/
+      weight: 5
+    - name: Code
+      url: code/
+      weight: 6
 
 params:
-    description: "my site"
-    #author: Me
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light #light dark auto
-    disableThemeToggle: true # false
-    hideFooter: false
-    
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: false
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
+  description: "my site"
+  DateFormat: "January 2006"
+  defaultTheme: light
+  disableThemeToggle: true
+  hideFooter: false
 
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
 
-    profileMode:
-          enabled: true
-          title: Yélognissè Frédi Agbohessou
-          subtitle: "Hello and Welcome! 👋 I am a researcher at [UPR aïda](https://www.cirad.fr/nous-connaitre/unites-de-recherche/aida)/[Cirad](https://www.cirad.fr/en), working on agronomy, climate change adaptation and mitigation, with a focus on tropical ecosystems"
-          imageUrl: "picture.png"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Yélognissè Frédi Agbohessou
-          buttons:
-            - name: Home
-              url: home
-            - name: Publications
-              url: papers/
-            - name: Courses
-              url: courses/
-            # - name: Data
-            #   url: data/
-           # - name: Newsletter
-           #   url: https://pmichaillat.substack.com
-            # - name: Tags
-            #   url: tags/
-            - name: Projects
-              url: projects/
+  profileMode:
+    enabled: true
+    title: Yélognissè Frédi Agbohessou
+    subtitle: >
+      Hello and Welcome! 👋 I am a researcher at [UPR aïda](https://www.cirad.fr/nous-connaitre/unites-de-recherche/aida)/[Cirad](https://www.cirad.fr/en),
+      working on agronomy, climate change adaptation and mitigation, with a focus on tropical ecosystems
+    imageUrl: "picture.png"
+    imageWidth: 160
+    imageHeight: 160
+    imageTitle: Yélognissè Frédi Agbohessou
+    buttons:
+      - name: Home
+        url: home
+      - name: Publications
+        url: papers/
+      - name: Courses
+        url: courses/
+      - name: Projects
+        url: projects/
 
-    socialIcons:
-        - name: Email
-          url: mailto:fredi.agbohessou@cirad.fr
-        - name: CV
-          url: https://cvdesignr.com/p/62f8c50dba4b9
-        #- name: Google Scholar
-        #  url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        #- name: Office Hours
-        #  url: officehours/
-        - name: GitHub
-          url: https://github.com/fredi-agbohessou 
-        - name: Orcid
-          url: https://orcid.org/0000-0002-2681-0162
-        #- name: YouTube
-        #  url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/yagbohessou      
-        - name: Location
-          url: location/
+  socialIcons:
+    - name: Email
+      url: mailto:fredi.agbohessou@cirad.fr
+    - name: CV
+      url: https://cvdesignr.com/p/62f8c50dba4b9
+    - name: GitHub
+      url: https://github.com/fredi-agbohessou 
+    - name: Orcid
+      url: https://orcid.org/0000-0002-2681-0162
+    - name: Twitter
+      url: https://twitter.com/yagbohessou      
+    - name: Location
+      url: location/
 
-    assets:
-        disableHLJS: true
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Yélognissè Agbohessou"
-      icon: icon.png #favicon.ico
-      iconHeight: 18
+  assets:
+    disableHLJS: true
+    disableScrollBarStyle: true
+
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+
+  label:
+    text: "Yélognissè Agbohessou"
+    icon: icon.png
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
-
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn 
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
