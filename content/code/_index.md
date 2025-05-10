@@ -184,4 +184,3 @@ function toggleTOC() {
   </div>
 </div>
 
----

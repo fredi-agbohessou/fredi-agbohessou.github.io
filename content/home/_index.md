@@ -79,7 +79,7 @@ function toggleTOC() {
 ---
 
 ### Hello and Welcome! 👋
-I am a **researcher** at [UPR aïda](https://www.cirad.fr/nous-connaitre/unites-de-recherche/aida)/[Cirad](https://www.cirad.fr/en), working on agronomy, climate change adaptation and mitigation, with a focus on tropical ecosystems. 
+I am a researcher at [UPR aïda](https://www.cirad.fr/nous-connaitre/unites-de-recherche/aida)/[Cirad](https://www.cirad.fr/en), working on agronomy, climate change adaptation and mitigation, with a focus on tropical ecosystems. 
 
 My current research focuses on designing agricultural systems that are more productive, resilient to climate change, and emit significantly fewer greenhouse gases. Specifically, I aim to generate insights into the biogeophysical impacts (e.g., albedo, surface infrared radiation, evapotranspiration) of various agricultural practices. The goal is to better understand how these practices can contribute to both mitigating and adapting to climate change in tropical regions. To achieve this, my approach combines field experiments with modeling techniques and upscaling to examine the broader implications of these practices on a larger, more applicable scale.
 

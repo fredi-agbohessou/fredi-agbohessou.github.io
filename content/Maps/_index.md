@@ -1,6 +1,6 @@
 ---
 title: My Maps
-description: "Photos and Informative maps"
+description: "Gallery"
 ---
 
 <style>
@@ -34,7 +34,7 @@ body, p, div, span, li, td, th {
 </style>
 
 <div>
-  <p id="description">Photos and Informative maps</p>
+  <p id="description">Gallery</p>
 </div>
 
 ---
@@ -51,14 +51,6 @@ body, p, div, span, li, td, th {
 
 <p style="text-align: center; font-size: 12px;">
   <i>Installation of automatic greenhouse gas measurement chambers at the Sylvopastoral site in Dahra, Senegal (Ba et al., 2024).</i>
-</p>
-
----
-
-![Map of African Hospitals](/images/africa_hospitals.png)
-
-<p style="text-align: center; font-size: 12px;">
-  <i>Geographic distribution of hospitals across Africa (Map made with R).</i>
 </p>
 
 ---

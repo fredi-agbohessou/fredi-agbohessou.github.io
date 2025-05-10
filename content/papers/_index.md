@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-description: "Research articles, oral communications, and posters by our team."
+description: "Research articles, oral communications, and posters"
 layout: post
 toc: true
 ---
@@ -48,7 +48,7 @@ body, p, div, span, li, td, th {
 </style>
 
 <div>
-  <p id="description">Research articles, oral communications, and posters by our team</p>
+  <p id="description">Research articles, oral communications, and posters</p>
   <p id="toggle-button" onclick="toggleTOC()">Table of Contents <span id="arrow">➤</span></p>
   <div id="toc">
     <ul>
