@@ -5,40 +5,35 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
+
 <title>Analyse géospatiale avec R | Yélognissè Agbohessou</title>
-<meta name="keywords" content="SIG, vecteur, raster, R">
-<meta name="description" content="Ce cours a pour objectif de vous apprendre comment utiliser le langage R pour extraire, manipuler, visualiser et analyser des données géospatiales issues de bases de données environnementales mondiales telles que ERA5, MODIS&hellip;">
+<meta name="keywords" content="SIG, vecteur, raster, R"><meta name="description" content="Ce cours a pour objectif de vous apprendre comment utiliser le langage R pour extraire, manipuler, visualiser et analyser des données géospatiales issues de bases de données environnementales mondiales telles que ERA5, MODIS…">
+
 <meta name="author" content="Dr. Yélognissè Frédi Agbohessou">
 <link rel="canonical" href="http://localhost:1313/courses/course1/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.a26c28fcbc050b5ecd5497d415961cf744349bd2a5bfcd1fa41f846306764a32.css" integrity="sha256-omwo/LwFC17NVJfUFZYc90Q0m9Klv80fpB&#43;EYwZ2SjI=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.20daf41d6c6c037e9e337136720a12ff0184f10b865079b7bf9d6259a0aa1704.css" integrity="sha256-INr0HWxsA36eM3E2cgoS/wGE8QuGUHm3v51iWaCqFwQ=" rel="preload stylesheet" as="style"><link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
 <link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<meta name="theme-color" content="#1e1e1e">
+<meta name="msapplication-TileColor" content="#1e1e1e">
 
-<meta name="theme-color" content="#2e2e33">
-<meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/courses/course1/">
-<noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
+<meta property="og:url" content="http://localhost:1313/courses/course1/">
+  <meta property="og:site_name" content="Yélognissè Agbohessou">
+  <meta property="og:title" content="Analyse géospatiale avec R"><meta name="og:description" content="Ce cours a pour objectif de vous apprendre comment utiliser le langage R pour extraire, manipuler, visualiser et analyser des données géospatiales issues de bases de données environnementales mondiales telles que ERA5, MODIS…">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="courses">
+    <meta property="article:modified_time" content="2025-05-09T18:39:11+02:00">
+    <meta property="article:tag" content="SIG">
+    <meta property="article:tag" content="vecteur">
+    <meta property="article:tag" content="raster">
+    <meta property="article:tag" content="R">
+    <meta property="og:image" content="http://localhost:1313/course1.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://localhost:1313/course1.png">
+<meta name="twitter:title" content="Analyse géospatiale avec R"><meta name="twitter:description" content="Ce cours a pour objectif de vous apprendre comment utiliser le langage R pour extraire, manipuler, visualiser et analyser des données géospatiales issues de bases de données environnementales mondiales telles que ERA5, MODIS…">
 
-    </style>
-</noscript><meta property="og:title" content="Analyse géospatiale avec R" />
-<meta property="og:description" content="Ce cours a pour objectif de vous apprendre comment utiliser le langage R pour extraire, manipuler, visualiser et analyser des données géospatiales issues de bases de données environnementales mondiales telles que ERA5, MODIS&hellip;" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/courses/course1/" />
-<meta property="og:image" content="http://localhost:1313/course1.png" /><meta property="article:section" content="courses" />
-
-<meta property="article:modified_time" content="2025-05-09T18:39:11+02:00" />
-
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="http://localhost:1313/course1.png" />
-<meta name="twitter:title" content="Analyse géospatiale avec R"/>
-<meta name="twitter:description" content="Ce cours a pour objectif de vous apprendre comment utiliser le langage R pour extraire, manipuler, visualiser et analyser des données géospatiales issues de bases de données environnementales mondiales telles que ERA5, MODIS&hellip;"/>
 
 
 <script type="application/ld+json">
@@ -71,7 +66,7 @@
   "keywords": [
     "SIG", "vecteur", "raster", "R"
   ],
-  "articleBody": "\rCe cours couvre les sujets liés à l’analyse des données géospatiales. Il tente de répondre à plusieurs questions :\nQu’est-ce qu’un SIG et en quoi les données géospatiales sont-elles utiles en écologie (par exemple) ? Comment manipuler les données vectorielles avec R? Comment manipuler les données raster avec R? Plan CHAPITRE 0 : Préparation et Pré-requis CHAPITRE 1 : Rappel sur les systèmes d’information géographique (SIG) et les données géospatiales CHAPITRE 2 : Manipulations des données Vectorielles CHAPITRE 3 : Manipulations des données raster CHAPITRE BONUS A : Interpolation des données raster à partir d’observations ponctuelles CHAPITRE BONUS B : Comment gérer un fichier NetCDF ? CHAPITRE BONUS C : Manipulations Avancées des Données Vectorielles Document du cours Note du cours : diapositive Matériels du cours\rExcercices Excercice A : Manipulations des données Vectorielles\rExcercice B : Manipulations des données raster\r",
+  "articleBody": "\rCe cours couvre les sujets liés à l’analyse des données géospatiales. Il tente de répondre à plusieurs questions :\nQu’est-ce qu’un SIG et en quoi les données géospatiales sont-elles utiles en écologie (par exemple) ? Comment manipuler les données vectorielles avec R? Comment manipuler les données raster avec R? Plan CHAPITRE 0 : Préparation et Pré-requis CHAPITRE 1 : Rappel sur les systèmes d’information géographique (SIG) et les données géospatiales CHAPITRE 2 : Manipulations des données Vectorielles CHAPITRE 3 : Manipulations des données raster CHAPITRE BONUS A : Interpolation des données raster à partir d’observations ponctuelles CHAPITRE BONUS B : Comment gérer un fichier NetCDF ? CHAPITRE BONUS C : Manipulations Avancées des Données Vectorielles Document du cours Note du cours : diapositive Matériels du cours Excercices Excercice A : Manipulations des données Vectorielles Excercice B : Manipulations des données raster ",
   "wordCount" : "141",
   "inLanguage": "en",
   "image":"http://localhost:1313/course1.png","datePublished": "0001-01-01T00:00:00Z",
@@ -93,18 +88,14 @@
     }
   }
 }
-</script>
+</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
 
-
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"></script>
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         renderMathInElement(document.body, {
-          
-          
           delimiters: [
             {left: '$$', right: '$$', display: true},
             {left: '$', right: '$', display: false},
@@ -116,59 +107,50 @@
             {left: "\\begin{gather}", right: "\\end{gather}", display: true},
             {left: "\\begin{CD}", right: "\\end{CD}", display: true},
           ],
-          
           throwOnError : false
         });
     });
 </script>
  
-
-
 </head>
 
-<body class="" id="top">
-
-<header class="header">
+<body class="" id="top"><header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="Yélognissè Agbohessou">
-             
-                <img src="http://localhost:1313/icon.png" alt="" aria-label="logo"
+            <a href="http://localhost:1313/" accesskey="h">
+                <img src="http://localhost:1313/icon.png" alt="logo" aria-label="logo"
                     height="18"
                     width="18">Yélognissè Agbohessou</a>
-            <div class="logo-switches">
-                <ul class="lang-switch"><li>|</li>
-                </ul>
-            </div>
+
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/home/" title="Home">
+                <a href="http://localhost:1313/home/">
                     <span>Home</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/papers/" title="Publications">
+                <a href="http://localhost:1313/papers/">
                     <span>Publications</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/projects/" title="Projects">
+                <a href="http://localhost:1313/projects/">
                     <span>Projects</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/courses/" title="Courses">
+                <a href="http://localhost:1313/courses/">
                     <span>Courses</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/maps/" title="Gallery">
+                <a href="http://localhost:1313/maps/">
                     <span>Gallery</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/code/" title="Code">
+                <a href="http://localhost:1313/code/">
                     <span>Code</span>
                 </a>
             </li>
@@ -181,7 +163,7 @@
 <article class="post-single">
   <header class="post-header">
     
-    <h1 class="post-title">
+    <h1 class="post-title entry-hint-parent">
       Analyse géospatiale avec R
     </h1>
     <div class="post-meta">Dr. Yélognissè Frédi Agbohessou
@@ -214,17 +196,13 @@ body, p, div, span, li, td, th {
 </ul>
 <h3 id="document-du-cours">Document du cours<a hidden class="anchor" aria-hidden="true" href="#document-du-cours">#</a></h3>
 <ul>
-<li><a href="slides.pdf">Note du cours : diapositive </a>
-</li>
-<li><a href="geospatialR.rar">Matériels du cours</a>
-</li>
+<li><a href="slides.pdf">Note du cours : diapositive </a></li>
+<li><a href="geospatialR.rar">Matériels du cours</a></li>
 </ul>
 <h3 id="excercices">Excercices<a hidden class="anchor" aria-hidden="true" href="#excercices">#</a></h3>
 <ul>
-<li><a href="slides.pdf">Excercice A : Manipulations des données Vectorielles</a>
-</li>
-<li><a href="slides.pdf">Excercice B : Manipulations des données raster</a>
-</li>
+<li><a href="slides.pdf">Excercice A : Manipulations des données Vectorielles</a></li>
+<li><a href="slides.pdf">Excercice B : Manipulations des données raster</a></li>
 </ul>
 <hr>
 
@@ -243,15 +221,16 @@ body, p, div, span, li, td, th {
     </main>
     
 <footer class="footer">
-    &copy; 2025 Yélognissè Agbohessou
+    <span>&copy; 2025 <a href="http://localhost:1313/">Yélognissè Agbohessou</a></span> ·     
     <span>
-    &middot;  Powered by 
+    Powered by 
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">a modified version</a>
          of 
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
 </footer>
+
 
 <script>
     let menu = document.getElementById('menu')
@@ -283,51 +262,50 @@ body, p, div, span, li, td, th {
 
 </script>
 <script>
-    document.querySelectorAll('pre > code').forEach((codeblock) => {
-        const container = codeblock.parentNode.parentNode;
+document.addEventListener("DOMContentLoaded", () => {
+  const copySVG = `
+    <svg xmlns="http://www.w3.org/2000/svg"
+         viewBox="0 0 24 24" width="16" height="16"
+         fill="none" stroke="currentColor" stroke-width="2"
+         stroke-linecap="round" stroke-linejoin="round">
+      <rect x="9" y="9" width="13" height="13" rx="2" ry="2"/>
+      <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
+    </svg>`;
 
-        const copybutton = document.createElement('button');
-        copybutton.classList.add('copy-code');
-        copybutton.innerHTML = 'copy';
+  const checkSVG = `
+    <svg xmlns="http://www.w3.org/2000/svg"
+         viewBox="0 0 24 24" width="16" height="16"
+         fill="none" stroke="currentColor" stroke-width="3"
+         stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="20 6 9 17 4 12"/>
+    </svg>`;
 
-        function copyingDone() {
-            copybutton.innerHTML = 'copied!';
-            setTimeout(() => {
-                copybutton.innerHTML = 'copy';
-            }, 2000);
-        }
+  document.querySelectorAll("pre > code").forEach((code) => {
+    const wrapper = code.closest(".highlight") || code.parentNode;
+    wrapper.style.position = "relative";
 
-        copybutton.addEventListener('click', (cb) => {
-            if ('clipboard' in navigator) {
-                navigator.clipboard.writeText(codeblock.textContent);
-                copyingDone();
-                return;
-            }
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "copy-code";
+    btn.title = "Copy to clipboard";
+    btn.innerHTML = copySVG;
 
-            const range = document.createRange();
-            range.selectNodeContents(codeblock);
-            const selection = window.getSelection();
-            selection.removeAllRanges();
-            selection.addRange(range);
-            try {
-                document.execCommand('copy');
-                copyingDone();
-            } catch (e) { };
-            selection.removeRange(range);
+    btn.addEventListener("click", () => {
+      navigator.clipboard
+        .writeText(code.textContent)
+        .then(() => {
+          btn.innerHTML = checkSVG;
+          btn.classList.add("copied");
+          setTimeout(() => {
+            btn.innerHTML = copySVG;
+            btn.classList.remove("copied");
+          }, 3000);
         });
-
-        if (container.classList.contains("highlight")) {
-            container.appendChild(copybutton);
-        } else if (container.parentNode.firstChild == container) {
-            
-        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
-            
-            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
-        } else {
-            
-            codeblock.parentNode.appendChild(copybutton);
-        }
     });
+
+    wrapper.appendChild(btn);
+  });
+});
 </script>
 </body>
 </html>

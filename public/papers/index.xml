@@ -4,7 +4,8 @@
     <title>Publications on Yélognissè Agbohessou</title>
     <link>http://localhost:1313/papers/</link>
     <description>Recent content in Publications on Yélognissè Agbohessou</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
