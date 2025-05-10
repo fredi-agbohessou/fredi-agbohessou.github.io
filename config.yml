@@ -1,10 +1,10 @@
-baseURL: "https://ayfu.github.io/" 
+baseURL: "https://fredi.agbohessou.github.io/" 
 title: Yélognissè Agbohessou
-paginate: 20
 theme: PaperMod
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
+pagination:
+  pagerSize: 20
 
 taxonomies:
     tag: tags
@@ -87,16 +87,10 @@ params:
           url: mailto:fredi.agbohessou@cirad.fr
         - name: CV
           url: https://cvdesignr.com/p/62f8c50dba4b9
-        #- name: Google Scholar
-        #  url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        #- name: Office Hours
-        #  url: officehours/
         - name: GitHub
           url: https://github.com/fredi-agbohessou 
         - name: Orcid
           url: https://orcid.org/0000-0002-2681-0162
-        #- name: YouTube
-        #  url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
           url: https://twitter.com/yagbohessou      
         - name: Location
@@ -125,3 +119,5 @@ markup:
         ordered: false
         startLevel: 2
 
+titleCaseStyle: 'none'
+enableGitInfo: true
