@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Courses on Pascal Michaillat</title>
+    <title>Courses on Yélognissè Agbohessou</title>
     <link>http://localhost:1313/courses/</link>
-    <description>Recent content in Courses on Pascal Michaillat</description>
+    <description>Recent content in Courses on Yélognissè Agbohessou</description>
     <image>
-      <title>Pascal Michaillat</title>
+      <title>Yélognissè Agbohessou</title>
       <url>http://localhost:1313/cover.png</url>
       <link>http://localhost:1313/cover.png</link>
     </image>
@@ -13,39 +13,11 @@
     <language>en</language>
     <atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unemployment</title>
-      <link>http://localhost:1313/v/</link>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/v/</guid>
-      <description>This course presents a matching model of unemployment and uses it to study unemployment fluctuations, efficient unemployment, and labor market policies.</description>
-    </item>
-    <item>
-      <title>Economic Slack</title>
-      <link>http://localhost:1313/w/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/w/</guid>
-      <description>This graduate course presents a matching model of economic slack and uses it to study business-cycle fluctuations, monetary policy, and fiscal policy.</description>
-    </item>
-    <item>
-      <title>Business Cycles and How to Tame Them</title>
-      <link>http://localhost:1313/z/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/z/</guid>
-      <description>This minicourse describes business cycles, develops a matching model to explain them, and discusses how monetary and fiscal policy can tame them.</description>
-    </item>
-    <item>
-      <title>Intermediate Macroeconomics</title>
-      <link>http://localhost:1313/y/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/y/</guid>
-      <description>This undergraduate course covers IS-LM model of business cycles, matching model of unemployment, inflation, and Malthusian and Solowian models of growth.</description>
-    </item>
-    <item>
-      <title>Mathematics for Macroeconomics</title>
-      <link>http://localhost:1313/x/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/x/</guid>
-      <description>This graduate course covers basic mathematical methods for macroeconomics: dynamic programming, optimal control, and differential equations.</description>
+      <title>Analyse géospatiale avec R</title>
+      <link>http://localhost:1313/courses/course1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course1/</guid>
+      <description>Ce cours a pour objectif de vous apprendre comment utiliser le langage R pour extraire, manipuler, visualiser et analyser des données géospatiales issues de bases de données environnementales mondiales telles que ERA5, MODIS&amp;hellip;</description>
     </item>
   </channel>
 </rss>

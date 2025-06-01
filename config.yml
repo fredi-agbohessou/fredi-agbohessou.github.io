@@ -1,33 +1,39 @@
-baseURL: "https://fredi.agbohessou.github.io/" 
-title: Pascal Michaillat
+baseURL: "https://fredi-agbohessou.github.io/" 
+title: Yélognissè Agbohessou
 theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
-  pagerSize: 40
+  pagerSize: 20
 
 taxonomies:
     tag: tags
-
+ 
 menu:
     main:
-        - name: Dashboard
-          url: dashboard/
+        - name: Home
+          url: home/
           weight: 1
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 2
+        - name: Projects
+          url: projects/
+          weight: 3
         - name: Courses
           url: courses/
-          weight: 3
-        - name: Design
-          url: design/
-          weight: 4        
+          weight: 4
+        - name: Gallery
+          url: maps/
+          weight: 5
+        - name: Code
+          url: code/
+          weight: 6    
 
 params:
-    description: "This website hosts Pascal Michaillat's research papers, course materials, design templates, curriculum vitae, and a real-time business cycle dashboard."
-    #author: Pascal Michaillat
-    #googleAnalyticsID: "G-97G4MZ4061"
+    description: "my site"
+    # author: Yélognissè Agbohessou
+    # googleAnalyticsID: "G-97G4MZ4061"
     images: ["cover.png"]
     DateFormat: "January 2006"
     defaultTheme: light
@@ -49,36 +55,42 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an associate professor of economics at the University of California, Santa Cruz. I work primarily on economic slack, especially unemployment: why it exists, why it fluctuates over the business cycle, and how macroeconomic policies should respond to such fluctuations."
-          imageUrl: "/picture.jpeg"
+          title: Yélognissè Frédi Agbohessou
+          subtitle: "Hello and Welcome! 👋 I am a researcher at [UPR aïda](https://www.cirad.fr/nous-connaitre/unites-de-recherche/aida)/[Cirad](https://www.cirad.fr/en), working on agronomy, climate change adaptation and mitigation, with a focus on tropical ecosystems"
+          imageUrl: "/picture.png"
           imageWidth: 140
           imageHeight: 140
           buttons:
-            - name: Dashboard
-              url: dashboard/  
-            - name: Papers
+            - name: Home
+              url: home
+            - name: Publications
               url: papers/
             - name: Courses
               url: courses/
-            - name: Design
-              url: design/
+            # - name: Data
+            #   url: data/
+           # - name: Newsletter
+           #   url: https://pmichaillat.substack.com
+            # - name: Tags
+            #   url: tags/
+            - name: Projects
+              url: projects/
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: https://cvdesignr.com/p/62f8c50dba4b9
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:fredi.agbohessou@cirad.fr
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+        - name: Orcid
+          url: https://orcid.org/0000-0002-2681-0162
+        #- name: Google Scholar
+         # url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: Twitter
+          url: https://twitter.com/yagbohessou 
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/fredi-agbohessou 
 
     assets:
         disableScrollBarStyle: true
@@ -86,8 +98,8 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
-      icon: favicon.ico
+      text: "Yélognissè Agbohessou"
+      icon: icon.png
       iconHeight: 18
 
 markup:
