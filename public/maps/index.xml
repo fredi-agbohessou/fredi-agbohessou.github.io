@@ -4,6 +4,11 @@
     <title>My Maps on Yélognissè Agbohessou</title>
     <link>http://localhost:1313/maps/</link>
     <description>Recent content in My Maps on Yélognissè Agbohessou</description>
+    <image>
+      <title>Yélognissè Agbohessou</title>
+      <url>http://localhost:1313/cover.png</url>
+      <link>http://localhost:1313/cover.png</link>
+    </image>
     <generator>Hugo -- 0.127.0</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/maps/index.xml" rel="self" type="application/rss+xml" />

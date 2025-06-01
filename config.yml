@@ -8,7 +8,7 @@ pagination:
 
 taxonomies:
     tag: tags
-
+ 
 menu:
     main:
         - name: Home
@@ -28,44 +28,38 @@ menu:
           weight: 5
         - name: Code
           url: code/
-          weight: 6
-        
-        
+          weight: 6    
 
 params:
     description: "my site"
-    #author: Me
-    # googleAnalyticsID: "G-XXXXX"
+    # author: Yélognissè Agbohessou
+    # googleAnalyticsID: "G-97G4MZ4061"
+    images: ["cover.png"]
     DateFormat: "January 2006"
-    defaultTheme: light #light dark auto
-    disableThemeToggle: true # false
-    hideFooter: false
-    
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
+    ShowWordCount: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: false
-    ShowToc: false
     disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
+    ShowCodeCopyButtons: true
+    ShowToc: false
+    TocOpen: false
     UseHugoToc: true
     comments: false
     math: true
-
-
     profileMode:
           enabled: true
           title: Yélognissè Frédi Agbohessou
           subtitle: "Hello and Welcome! 👋 I am a researcher at [UPR aïda](https://www.cirad.fr/nous-connaitre/unites-de-recherche/aida)/[Cirad](https://www.cirad.fr/en), working on agronomy, climate change adaptation and mitigation, with a focus on tropical ecosystems"
-          imageUrl: "picture.png"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Yélognissè Frédi Agbohessou
+          imageUrl: "/picture.png"
+          imageWidth: 140
+          imageHeight: 140
           buttons:
             - name: Home
               url: home
@@ -83,28 +77,29 @@ params:
               url: projects/
 
     socialIcons:
-        - name: Email
-          url: mailto:fredi.agbohessou@cirad.fr
         - name: CV
           url: https://cvdesignr.com/p/62f8c50dba4b9
-        - name: GitHub
-          url: https://github.com/fredi-agbohessou 
-        - name: Orcid
-          url: https://orcid.org/0000-0002-2681-0162
-        - name: Twitter
-          url: https://twitter.com/yagbohessou      
+        - name: Email
+          url: mailto:fredi.agbohessou@cirad.fr
         - name: Location
           url: location/
+        - name: Orcid
+          url: https://orcid.org/0000-0002-2681-0162
+        #- name: Google Scholar
+         # url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: Twitter
+          url: https://twitter.com/yagbohessou 
+        - name: GitHub
+          url: https://github.com/fredi-agbohessou 
 
     assets:
-        disableHLJS: true
         disableScrollBarStyle: true
     cover:
-        hiddenInList: false
+        hiddenInList: true
         hiddenInSingle: true
     label:
       text: "Yélognissè Agbohessou"
-      icon: icon.png #favicon.ico
+      icon: icon.png
       iconHeight: 18
 
 markup:
@@ -113,7 +108,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: xcode 
     tableOfContents:
         endLevel: 2
         ordered: false

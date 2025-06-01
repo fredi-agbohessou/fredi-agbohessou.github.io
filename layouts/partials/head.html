@@ -7,7 +7,16 @@
 <meta name="robots" content="noindex, nofollow">
 {{- end }}
 
-<title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
+{{- /* Build page title, allowing for 404 page */ -}}
+<title>
+  {{- if eq .Kind "404" -}}
+    404: Page not found | {{ .Site.Title }}
+  {{- else if and (not .IsHome) .Title -}}
+    {{ .Title }} | {{ .Site.Title }}
+  {{- else -}}
+    {{ .Site.Title }}
+  {{- end -}}
+</title>
 
 {{- if .IsHome }}
 {{ with site.Params.keywords -}}<meta name="keywords" content="{{- range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}">{{ end }}
@@ -17,9 +26,9 @@
     {{- range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- end -}}">
 {{- end }}
 
-{{- /* Adjust description for taxonomy term pages */ -}}
+{{- /* Build page description, allowing for term pages */ -}}
 {{- $default := site.Params.description -}}
-{{- $termText := printf "List of Pascal Michaillat's research papers and course materials about: %s" .Title -}}
+{{- $termText := printf "Research by Pascal Michaillat on: %s" .Title -}}
 {{- $desc := cond (eq .Kind "term") $termText $default | default "" -}}
 {{- $desc = .Description | default .Summary | default $desc -}}
 <meta name="description" content="{{ $desc | plainify | htmlUnescape | chomp }}">

@@ -4,6 +4,11 @@
     <title>raster on Yélognissè Agbohessou</title>
     <link>http://localhost:1313/tags/raster/</link>
     <description>Recent content in raster on Yélognissè Agbohessou</description>
+    <image>
+      <title>Yélognissè Agbohessou</title>
+      <url>http://localhost:1313/cover.png</url>
+      <link>http://localhost:1313/cover.png</link>
+    </image>
     <generator>Hugo -- 0.127.0</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/tags/raster/index.xml" rel="self" type="application/rss+xml" />

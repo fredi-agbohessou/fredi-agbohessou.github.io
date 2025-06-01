@@ -18,7 +18,7 @@
 
 {{- /* Adjust Twitter description for taxonomy term pages */ -}}
 {{- $default := site.Params.description -}}
-{{- $termText := printf "List of Pascal Michaillat's research papers and course materials about: %s" .Title -}}
+{{- $termText := printf "Research by Pascal Michaillat on: %s" .Title -}}
 {{- $desc := cond (eq .Kind "term") $termText $default | default "" -}}
 {{- $desc = .Description | default .Summary | default $desc -}}
 <meta name="twitter:description" content="{{ $desc | plainify | htmlUnescape | chomp }}">
