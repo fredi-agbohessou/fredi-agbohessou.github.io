@@ -16,17 +16,13 @@
     border: 1px solid var(--purple);
 }
 
-.tag-entry .entry-cover {
-    display: none;
-}
-
 .entry-header h1, h2 {
     font-size: 1.25rem;
     line-height: var(--line-height);
 }
 
 .entry-content {
-    margin: 20px 0;
+    margin: var(--content-gap) 0;
     color: var(--secondary);
     font-size: var(--entry-size);
     line-height: var(--line-height);
@@ -56,22 +52,4 @@
 .entry-hint-parent {
     display: flex;
     justify-content: space-between;
-}
-
-.entry-cover {
-    font-size: var(--entry-size);
-    margin-bottom: var(--gap);
-    text-align: center;
-}
-
-.entry-cover img {
-    border-radius: var(--radius);
-    width: 100%;
-    height: auto;
-    border: 1px solid var(--border);
-}
-
-.entry-cover a {
-    color: var(--secondary);
-    box-shadow: 0 1px 0 var(--primary);
 }
