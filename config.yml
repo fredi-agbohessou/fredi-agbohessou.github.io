@@ -23,12 +23,12 @@ menu:
         - name: Courses
           url: courses/
           weight: 4
-        - name: Gallery
-          url: maps/
-          weight: 5
+        #- name: Gallery
+        #  url: maps/
+        #  weight: 5
         - name: Code
           url: code/
-          weight: 6    
+          weight: 5    
 
 params:
     description: "my site"

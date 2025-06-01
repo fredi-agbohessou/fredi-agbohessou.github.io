@@ -36,12 +36,5 @@ TA B-115 / 02 Avenue Agropolis&lt;br&gt;
 France&lt;/p&gt;
 &lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5773.789910517157!2d3.8702947999999884!3d43.65035380000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1746513585276!5m2!1sfr!2sfr&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;</description>
     </item>
-    <item>
-      <title>Office Hours</title>
-      <link>http://localhost:1313/officehours/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/officehours/</guid>
-      <description>Schedule and location for office hours.</description>
-    </item>
   </channel>
 </rss>
