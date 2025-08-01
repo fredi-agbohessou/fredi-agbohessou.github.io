@@ -24,10 +24,10 @@ jobs:
       - name: Install dependencies
         run: pip install pandas plotly fredapi python-dotenv
 
-      - name: Run graph generation script
-        env:
-          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
-        run: python content/dashboard/dashboard.py
+      #- name: Run graph generation script
+       # env:
+        #  FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        #run: python content/dashboard/dashboard.py
 
       - name: Commit and push updated charts
         run: |
