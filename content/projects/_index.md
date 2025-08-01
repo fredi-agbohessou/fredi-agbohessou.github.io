@@ -34,10 +34,21 @@ body, p, div, span, li, td, th {
 </style>
 
 <div>
-  <p id="description">Current and past research projects I have been involved in</p>
+  <p id="description">Current and past projects I have been involved in</p>
 </div>
 
 ---
+
+<div class="model-item">
+  <div class="model-description">
+    <p><a href="https://raiz.org.zw/">RAIZ:</a> Resilience building through Agroecological Intensification in Zimbabwe</p>
+  </div>
+  <div class="model-logo">
+    <img src="raiz.png" alt="RAIZ">
+  </div>
+</div>
+
+
 
 <div class="model-item">
   <div class="model-description">

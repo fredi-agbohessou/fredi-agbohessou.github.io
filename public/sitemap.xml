@@ -8,9 +8,6 @@
     <loc>http://localhost:1313/courses/course1/</loc>
     <lastmod>2025-06-01T22:39:31+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
-    <lastmod>2025-06-01T22:39:31+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/code/</loc>
     <lastmod>2025-06-01T22:39:31+02:00</lastmod>
   </url><url>
@@ -24,9 +21,6 @@
     <lastmod>2025-06-01T22:39:31+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-06-01T22:39:31+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/officehours/</loc>
     <lastmod>2025-06-01T22:39:31+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/</loc>
