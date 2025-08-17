@@ -77,6 +77,9 @@ function toggleTOC() {
 
 ### <a id="research-articles">📚Research Articles</a>
 
+**Agbohessou, Y.**, Audebert, A., Ndour, A., Leroux, L., Jourdan, C., Clermont-Dauphin, C., Sow, S., Pierre, C., Taugourdeau, S., Sarr, M. S., Diatta, S., Sanogo, D., Seghieri, J., le Maire, G., Vezy, R., Fonceka, D., & Roupsard, O. (2025). *[Proxydetection of the impact distance of trees on crops: An indicator of the Land Equivalent Ratio?](https://www.sciencedirect.com/science/article/pii/S0167880925004505)* Agriculture, Ecosystems & Environment, 394, 109918. 
+
+
 Wieckowski, A., Vestin, P., Ardö, J., Roupsard, O., Ndiaye, O., Diatta, O., Ba, S., **Agbohessou, Y.**, Fensholt, R., Verbruggen, W., Gebremedhn, H. H., & Tagesson, T. (2024). *[Eddy covariance measurements reveal a decreased carbon sequestration strength 2010–2022 in an African semiarid savanna.](https://doi.org/10.1111/gcb.17509)* Global Change Biology, 30, e17509. 
 
 
