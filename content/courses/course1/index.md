@@ -1,7 +1,7 @@
 ---
 title: "Analyse géospatiale avec R"
 tags: ["SIG","vecteur","raster","R"]
-author: "Dr. Yélognissè Frédi Agbohessou"
+author: "yélognissè frédi agbohessou"
 summary: "Ce cours a pour objectif de vous apprendre comment utiliser le langage R pour extraire, manipuler, visualiser et analyser des données géospatiales issues de bases de données environnementales mondiales telles que ERA5, MODIS..."
 
 cover:
