@@ -140,7 +140,7 @@ function toggleTOC() {
 
 ---
 
-### <a id="rpackage">R package I developed 📊</a>
+### <a id="rpackage">R package 📊</a>
 
 <div class="model-item">
   <div class="model-description">
@@ -153,7 +153,16 @@ function toggleTOC() {
 
 ---
 
-### <a id="custom-code">My scripts 📄</a>
+### <a id="custom-code"> Codebase 📄</a>
+
+<div class="model-item">
+  <div class="model-description">
+    <p><a href="https://doi.org/10.5281/zenodo.18465078 ">Codes used for the analyses, figures, and key metrics in </a>  "Proxydetection of the impact distance of trees on crops: An indicator of the Land Equivalent Ratio? (Agbohessou et al. 2025)"</p>
+  </div>
+  <div class="model-logo">
+    <img src="AEE.png" alt="Maespa">
+  </div>
+</div>
 
 <div class="model-item">
   <div class="model-description">

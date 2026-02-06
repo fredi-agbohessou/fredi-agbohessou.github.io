@@ -77,8 +77,8 @@ params:
               url: projects/
 
     socialIcons:
-        - name: CV
-          url: https://cvdesignr.com/p/62f8c50dba4b9
+        #- name: CV
+         # url: https://cvdesignr.com/p/62f8c50dba4b9
         - name: Email
           url: mailto:fredi.agbohessou@cirad.fr
         - name: Location
