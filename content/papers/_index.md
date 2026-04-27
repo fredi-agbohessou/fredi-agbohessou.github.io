@@ -77,7 +77,9 @@ function toggleTOC() {
 
 ### <a id="research-articles">📚Research Articles</a>
 
-Raynal, P.-A., Rajot, J.-L., Marticorena, B., Tall, A., Lemaire, B., Civil, J.-A., Fall, D.C., Dorego, G.S., Sarr, I., Faye, I., Emmendoerffer, A., Guillaume, H., Bouet, C., Affholder, F., Faye, B., **Agbohessou, Y.**, Pierre, C., (2025). *[Evaluating the impact of different agropastoral practices on wind erosion in western Sahel](https://doi.org/10.1016/j.catena.2025.109433)* CATENA 260, 109433. 
+Ba, S.M., Roupsard, O., Chapuis-Lardy, L., Bouvery, F., **Agbohessou, Y.**, Duthoit, M., Wieckowski, A., Tagesson, T., Assouma, M.H., Gaglo, E.K., Delon, C., Sambou, B., Serça, D., 2026. *[Drivers and vertical CO2 flux balances in a Sahelian agroforestry system: Insights from high frequency measurements.](https://doi.org/10.5194/soil-12-471-2026)* SOIL 12, 471–495. 
+
+Raynal, P.-A., Rajot, J.-L., Marticorena, B., Tall, A., Lemaire, B., Civil, J.-A., Fall, D.C., Dorego, G.S., Sarr, I., Faye, I., Emmendoerffer, A., Guillaume, H., Bouet, C., Affholder, F., Faye, B., **Agbohessou, Y.**, Pierre, C., (2025). *[Evaluating the impact of different agropastoral practices on wind erosion in western Sahel.](https://doi.org/10.1016/j.catena.2025.109433)* CATENA 260, 109433. 
 
 **Agbohessou, Y.**, Audebert, A., Ndour, A., Leroux, L., Jourdan, C., Clermont-Dauphin, C., Sow, S., Pierre, C., Taugourdeau, S., Sarr, M. S., Diatta, S., Sanogo, D., Seghieri, J., le Maire, G., Vezy, R., Fonceka, D., & Roupsard, O. (2025). *[Proxydetection of the impact distance of trees on crops: An indicator of the Land Equivalent Ratio?](https://www.sciencedirect.com/science/article/pii/S0167880925004505)* Agriculture, Ecosystems & Environment, 394, 109918. 
 
