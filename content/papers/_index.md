@@ -101,6 +101,8 @@ Roupsard, O., Audebert, A., Ndour, A.P., Clermont-Dauphin, C., **Agbohessou, Y.*
 
 ### <a id="oral-communications">🎤Oral Communications</a>
 
+**Agbohessou, Y. F.**, Shumba, A., Diop, S., Civil, J.-A., Falconnier, G. N., Couëdel, A., Chikowo, R., Corbeels, M., Six, J., Thierfelder, C., and Cardinael, R. (2026): *[Simulating CO2 and N2O emissions from sub-Saharan African croplands under conservation agriculture](https://doi.org/10.5194/egusphere-egu26-9109)* , EGU General Assembly 2026, 3–8 May 2026, Vienna, Austria. Copernicus Meetings.
+
 **Agbohessou, Y.**, Ba, S., Ferchaud, F., Léonard, J., Bouvery, F., Duthoit, M., Sow, S., Delon, C., Vezy, R., Ngom, D., Mougin, E., Falconnier, G., Taugourdeau, S., Roupsard, O. (2024). *[Modelling CO2 and N2O emissions from a tropical semi-arid parkland cultivated with groundnut and millet.](https://doi.org/10.5194/egusphere-egu24-7588)* EGU24, 14-19 April 2024, Vienna, Austria. Copernicus Meetings.
 
 **Agbohessou, Y.**, Ba, S., Ferchaud, F., Léonard, J., Bouvery, F., Duthoit, M., Sow, S., Delon, C., Vezy, R., Ngom, D., Mougin, E., Falconnier, G., Taugourdeau, S., Roupsard, O. *Utilisation de STICS pour simuler les émissions de CO2 et N2O dans un parc agroforestier du Sénégal.* Présenté en ligne lors de l’animation inter-TDR autour de STICS, ECO&SOL, Montpellier, France.
