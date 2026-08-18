@@ -41,13 +41,23 @@ body, p, div, span, li, td, th {
 
 <div class="model-item">
   <div class="model-description">
+    <p><a href="">HARVEST:</a> Hubs for Agricultural Resilience, Value Chains, and Sustainable Transformation in Zimbabwe </p>
+  </div>
+  <div class="model-logo">
+    <img src="harvest.png" alt="HARVEST">
+  </div>
+</div>
+
+
+
+<div class="model-item">
+  <div class="model-description">
     <p><a href="https://raiz.org.zw/">RAIZ:</a> Resilience building through Agroecological Intensification in Zimbabwe</p>
   </div>
   <div class="model-logo">
     <img src="raiz.png" alt="RAIZ">
   </div>
 </div>
-
 
 
 <div class="model-item">

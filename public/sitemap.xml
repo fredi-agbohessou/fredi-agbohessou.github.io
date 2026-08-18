@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/home/</loc>
-    <lastmod>2025-06-01T22:39:31+02:00</lastmod>
+    <lastmod>2026-02-16T14:10:42+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/courses/course1/</loc>
     <lastmod>2025-09-21T16:10:24+02:00</lastmod>
@@ -24,7 +24,7 @@
     <lastmod>2025-08-01T10:14:32+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/</loc>
-    <lastmod>2025-09-21T16:06:13+02:00</lastmod>
+    <lastmod>2026-05-07T17:19:52+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/r/</loc>
     <lastmod>2025-09-21T16:10:24+02:00</lastmod>
@@ -42,6 +42,6 @@
     <lastmod>2025-09-21T16:10:24+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-06T08:30:03+01:00</lastmod>
+    <lastmod>2026-05-07T17:19:52+02:00</lastmod>
   </url>
 </urlset>
