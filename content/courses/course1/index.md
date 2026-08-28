@@ -1,8 +1,8 @@
 ---
-title: "Analyse géospatiale avec R"
+title: "Geospatial analysis with R"
 tags: ["SIG","vecteur","raster","R"]
 author: "yélognissè frédi agbohessou"
-summary: "Ce cours a pour objectif de vous apprendre comment utiliser le langage R pour extraire, manipuler, visualiser et analyser des données géospatiales issues de bases de données environnementales mondiales telles que ERA5, MODIS..."
+summary: "This course provides practical training in using R to extract, process, visualize, and analyze geospatial data derived from global environmental datasets, such as ERA5, MODIS..."
 
 cover:
     image: "course1.png"
@@ -20,33 +20,34 @@ body, p, div, span, li, td, th {
 </style>
 ---
 
-Ce cours couvre les sujets liés à l'analyse des données géospatiales. Il tente de répondre à plusieurs questions : 
+This course covers key topics in geospatial data analysis and addresses several fundamental questions: 
 
-+ Qu'est-ce qu'un SIG et en quoi les données géospatiales sont-elles utiles en écologie (par exemple) ? 
-+ Comment manipuler les données vectorielles avec R? 
-+ Comment manipuler les données raster avec R? 
++ What is a GIS, and how can geospatial data be used in ecology and other environmental sciences?
++ How can vector data be processed and analyzed in R?
++ How can raster data be processed and analyzed in R?
++ ...
 
 
 ---
 
 ## Plan
 
-+ CHAPITRE 0 : Préparation et Pré-requis 
-+ CHAPITRE 1 : Rappel sur les systèmes d'information géographique (SIG) et les données géospatiales
-+ CHAPITRE 2 : Manipulations des données Vectorielles
-+ CHAPITRE 3 : Manipulations des données raster
-+ CHAPITRE BONUS A : Interpolation des données raster à partir d'observations ponctuelles
-+ CHAPITRE BONUS B : Comment gérer un fichier NetCDF ?
-+ CHAPITRE BONUS C : Manipulations Avancées des Données Vectorielles
++ CHAPTER 0: Preparation and prerequisites
++ CHAPTER 1: Introduction to Geographic Information Systems (GIS) and geospatial data
++ CHAPTER 2: Working with vector data
++ CHAPTER 3: Working with raster data
++ BONUS CHAPTER A: Raster data interpolation from point observations
++ BONUS CHAPTER B: Working with NetCDF files
++ BONUS CHAPTER C: Advanced vector data processing
 
-### Document du cours 
+### Course materials
 
-+ [Note du cours : diapositive ](slides.pdf)
-+ [Matériels du cours](geospatialR.rar)
++ [Slides](slides.pdf)
++ [Materials](geospatialR.rar)
 
-### Excercices
+### Excercises
 
-+ [Excercice A : Manipulations des données Vectorielles](slides.pdf)
-+ [Excercice B : Manipulations des données raster](slides.pdf)
++ [Exercise A: Working with vector data](slides.pdf)
++ [Exercise B: Working with raster data](slides.pdf)
 ---
 

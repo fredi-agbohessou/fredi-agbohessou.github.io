@@ -13,11 +13,11 @@
     <language>en</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Analyse géospatiale avec R</title>
+      <title>Geospatial analysis with R</title>
       <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/courses/course1/</guid>
-      <description>Ce cours a pour objectif de vous apprendre comment utiliser le langage R pour extraire, manipuler, visualiser et analyser des données géospatiales issues de bases de données environnementales mondiales telles que ERA5, MODIS&amp;hellip;</description>
+      <description>This course provides practical training in using R to extract, process, visualize, and analyze geospatial data derived from global environmental datasets, such as ERA5, MODIS&amp;hellip;</description>
     </item>
     <item>
       <title>Location</title>
