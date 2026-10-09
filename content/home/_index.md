@@ -81,7 +81,7 @@ function toggleTOC() {
 ### Hello and Welcome! 👋
 I am a researcher at [UPR aïda](https://www.cirad.fr/nous-connaitre/unites-de-recherche/aida)/[Cirad](https://www.cirad.fr/en), working on agronomy, climate change adaptation and mitigation, with a focus on tropical ecosystems. 
 
-My research aims to generate insights into the biogeophysical impacts (e.g., albedo, surface infrared radiation, evapotranspiration) of various agricultural practices. The goal is to better understand how these practices can contribute to both mitigating and adapting to climate change in tropical regions. To achieve this, my approach combines field experiments with modeling techniques and upscaling to examine the broader implications of these practices on a larger, more applicable scale.
+My research aims to generate insights into the biogeophysical impacts (e.g., albedo, surface infrared radiation, evapotranspiration) and biogeochemical impacts (e.g., greenhouse gas emissions) of various agricultural practices. The goal is to better understand how these practices can contribute to both mitigating and adapting to climate change in tropical regions. To achieve this, my approach combines field experiments with modeling techniques and upscaling to examine the broader implications of these practices on a larger, more applicable scale.
 
 My previous works focused on modeling the energy budget and the water, carbon, and nitrogen cycles in tropical ecosystems (in West-Africa and South-East Asia) with an emphasis on GHG emissions, climate change, productivity, and food security.
 
