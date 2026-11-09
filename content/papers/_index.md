@@ -101,11 +101,11 @@ Roupsard, O., Audebert, A., Ndour, A.P., Clermont-Dauphin, C., **Agbohessou, Y.*
 
 ### <a id="oral-communications">🎤Oral Communications</a>
 
-**Agbohessou, Y.**, Le Maire, G., Nouvellon, Y., François, C., Delpierre, N., Cornut, I., Kasemsap, P., Sathornkich, J., Duangngam, O., Satakhun, D., Thaler, P., 2026. *[Modeling the functioning of rubber trees (Hevea brasiliensis) under changing climate and management-driven disturbances](Abstract_HRPP_seminar_Agbohessou_et_al.pdf)*, The 14th Annual Seminar of the HRPP, 4-6 November 2026, 2026, Kasetsart University,Bangkok, Thailand.
+**Agbohessou, Y.**, Le Maire, G., Nouvellon, Y., François, C., Delpierre, N., Cornut, I., Kasemsap, P., Sathornkich, J., Duangngam, O., Satakhun, D., Thaler, P., 2026. *[Modeling the functioning of rubber trees (Hevea brasiliensis) under changing climate and management-driven disturbances](Abstract_HRPP_seminar_Agbohessou_et_al.pdf)*, The 14th Annual Seminar of the HRPP, 4-6 November 2026, 2026, Kasetsart University,Bangkok, Thailand. [Presentation (PDF)](HRPP_Agbohessou_et_al.pdf)
 
 **Agbohessou, Y. F.**, Shumba, A., Diop, S., Civil, J.-A., Falconnier, G. N., Couëdel, A., Chikowo, R., Corbeels, M., Six, J., Thierfelder, C., and Cardinael, R. (2026): *[Simulating CO2 and N2O emissions from sub-Saharan African croplands under conservation agriculture](https://doi.org/10.5194/egusphere-egu26-9109)* , EGU General Assembly 2026, 3–8 May 2026, Vienna, Austria. Copernicus Meetings.
 
-**Agbohessou, Y.**, Ba, S., Ferchaud, F., Léonard, J., Bouvery, F., Duthoit, M., Sow, S., Delon, C., Vezy, R., Ngom, D., Mougin, E., Falconnier, G., Taugourdeau, S., Roupsard, O. (2024). *[Modelling CO2 and N2O emissions from a tropical semi-arid parkland cultivated with groundnut and millet.](https://doi.org/10.5194/egusphere-egu24-7588)* EGU24, 14-19 April 2024, Vienna, Austria. Copernicus Meetings. 
+**Agbohessou, Y.**, Ba, S., Ferchaud, F., Léonard, J., Bouvery, F., Duthoit, M., Sow, S., Delon, C., Vezy, R., Ngom, D., Mougin, E., Falconnier, G., Taugourdeau, S., Roupsard, O. (2024). *[Modelling CO2 and N2O emissions from a tropical semi-arid parkland cultivated with groundnut and millet.](https://doi.org/10.5194/egusphere-egu24-7588)* EGU24, 14-19 April 2024, Vienna, Austria. Copernicus Meetings. [Presentation (PDF)](EGU_2024_Agbohessou_et_al.pdf)
 
 **Agbohessou, Y.**, Ba, S., Ferchaud, F., Léonard, J., Bouvery, F., Duthoit, M., Sow, S., Delon, C., Vezy, R., Ngom, D., Mougin, E., Falconnier, G., Taugourdeau, S., Roupsard, O. *Utilisation de STICS pour simuler les émissions de CO2 et N2O dans un parc agroforestier du Sénégal.* Présenté en ligne lors de l’animation inter-TDR autour de STICS, ECO&SOL, Montpellier, France.
 
@@ -113,7 +113,7 @@ Roupsard, O., Audebert, A., Ndour, A.P., Clermont-Dauphin, C., **Agbohessou, Y.*
 
 Delon, C., **Agbohessou, Y.**, Galy-Lacaux, C., Serça, D., Ndiaye, O., Roupsard, O., Mougin, E., Grippa, M. (2024). *The role of livestock on the nitrogen budget in a Sahelian silvo-pastoral system*. 9th International Nitrogen Conference, February 5-8 2024, New Delhi, India.
 
-**Agbohessou, Y.**, Delon, C., Grippa, M., Mougin, E., Ba, S., Ngom, D., Roupsard, O. (2023). *[Soil CO2 and N2O emissions in Sahelian Silvopastoral systems: spatial distribution and annual budget estimation (No. EGU23-7304).](https://doi.org/10.5194/egusphere-egu23-7304)* Oral Presentation at the EGU23, 23-28 April 2023, Vienna, Austria. Copernicus Meetings. 
+**Agbohessou, Y.**, Delon, C., Grippa, M., Mougin, E., Ba, S., Ngom, D., Roupsard, O. (2023). *[Soil CO2 and N2O emissions in Sahelian Silvopastoral systems: spatial distribution and annual budget estimation (No. EGU23-7304).](https://doi.org/10.5194/egusphere-egu23-7304)* Oral Presentation at the EGU23, 23-28 April 2023, Vienna, Austria. Copernicus Meetings. [Presentation (PDF)](EGU_2023_agbohessou_et_al.pdf)
 
 **Agbohessou, Y.**, Delon, C., Grippa, M., Mougin, E., Ba, S., Ngom, D., Roupsard, O. (2023). *Modélisation des bilans de carbone et azote.* Présenté lors de l’Atelier « Afrique de l’Ouest » organisé par le laboratoire Géoscience Environnement de Toulouse du 16 et 17 mars 2023, Toulouse, France.
 
@@ -123,7 +123,7 @@ Delon, C., **Agbohessou, Y.**, Galy-Lacaux, C., Serça, D., Ndiaye, O., Roupsard
 
 **Agbohessou, Y.**, Delon, C., Grippa, M., Mougin, E., Ngom, D., Roupsard, O. 2022. *Modélisation du bilan de gaz à effet de serre (CO2, N2O, CH4) des systèmes agro-sylvo-pastoraux du sahel : de la parcelle au paysage*. Présenté à l’UCAD lors des doctoriales organisés par l’Ecole Doctorale ‘Sciences de la Vie, de la Santé et de l'Environnement’ (ED-SEV), Dakar Sénégal.
 
-**Agbohessou, Y.**, Audebert, A., Ndour, A., Sarr, M.S., Jourdan, C., Clermont-Dauphin, C., Diatta, S., Leroux, L., Taugourdeau, S., Sanogo, D., Seghieri, J., Delon, C., Roupsard, O. 2022. *[Using UAV and geostatistics to upscale crop yield in heterogeneous agro-silvo-pastoral system](https://doi.org/10.5194/egusphere-egu22-11773)* (No. EGU22-11773). Presented at the EGU22, 23-27 May 2022, Vienna, Austria. Copernicus Meetings.   
+**Agbohessou, Y.**, Audebert, A., Ndour, A., Sarr, M.S., Jourdan, C., Clermont-Dauphin, C., Diatta, S., Leroux, L., Taugourdeau, S., Sanogo, D., Seghieri, J., Delon, C., Roupsard, O. 2022. *[Using UAV and geostatistics to upscale crop yield in heterogeneous agro-silvo-pastoral system](https://doi.org/10.5194/egusphere-egu22-11773)* (No. EGU22-11773). Presented at the EGU22, 23-27 May 2022, Vienna, Austria. Copernicus Meetings. [Presentation (PDF)](EGU_2022_agbohessou_et_al.pdf)
 
 Ba, S.M., Roupsard, O., Chapuis-Lardy, L., Bouvery, F., Diongue, D.M.L., **Agbohessou, Y.F.**, Guérin, F., Tagesson, H.T., Sambou, B., Serça, D., 2022. *[Monitoring soil greenhouse gas (GHG) emissions in a Sahelian agrosilvo-pastoral parkland](https://doi.org/10.5194/egusphere-egu22-4337)* (No. EGU22-4337). Presented at the EGU22, Copernicus Meetings. 
 
@@ -135,8 +135,8 @@ Roupsard, O., **Agbohessou, Y.**, Clermont-Dauphin, C., Audebert, A., Sanou, J.,
 
 ### <a id="posters">🖼️Posters</a>
 
-**Agbohessou, Y.**, Delon, C., Grippa, M., Mougin, E., Tagesson, T., Ngom, D., Gaglo, E.K., Ba, S., Ndiaye, O., Roupsard, O., 2024. *Modélisation des émissions de CO2 et de N2O des sols dans les systèmes sylvopastoraux sahéliens : de l'échelle locale à l'échelle régionale.* JMSC2024, 19-20 Juin 2024, Strasbourg, France. 
+**Agbohessou, Y.**, Delon, C., Grippa, M., Mougin, E., Tagesson, T., Ngom, D., Gaglo, E.K., Ba, S., Ndiaye, O., Roupsard, O., 2024. *Modélisation des émissions de CO2 et de N2O des sols dans les systèmes sylvopastoraux sahéliens : de l'échelle locale à l'échelle régionale.* JMSC2024, 19-20 Juin 2024, Strasbourg, France. [Poster (PDF)](JMSC2024_Poster_Agbohessou_et_al_version_finale.pptx.pdf)
 
-**Agbohessou, Y.**, Delon, C., Grippa, M., Mougin, E., Tagesson, T., Ngom, D., Roupsard, O., 2021. *[Modeling Greenhouse Gas Emissions from Sahelian Sylvo-pastoral Ecosystems.](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/809234)* Poster presented at the AGU Fall Meeting 2021, AGU, 13-17 Dec 2021, New Orlean, LA, USA. 
+**Agbohessou, Y.**, Delon, C., Grippa, M., Mougin, E., Tagesson, T., Ngom, D., Roupsard, O., 2021. *[Modeling Greenhouse Gas Emissions from Sahelian Sylvo-pastoral Ecosystems.](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/809234)* Poster presented at the AGU Fall Meeting 2021, AGU, 13-17 Dec 2021, New Orlean, LA, USA. [Poster (PDF)](AGU_Poster_fredi.pdf)
 
 

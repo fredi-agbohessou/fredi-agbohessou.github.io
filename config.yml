@@ -26,8 +26,8 @@ menu:
         #- name: Gallery
         #  url: maps/
         #  weight: 5
-        - name: Code
-          url: code/
+        - name: Assets
+          url: assets/
           weight: 5    
 
 params:
@@ -65,9 +65,9 @@ params:
               url: home
             - name: Publications
               url: papers/
-            - name: Courses
-              url: courses/
-            # - name: Data
+            #- name: Courses
+            #  url: courses/
+            #- name: Data
             #   url: data/
            # - name: Newsletter
            #   url: https://pmichaillat.substack.com

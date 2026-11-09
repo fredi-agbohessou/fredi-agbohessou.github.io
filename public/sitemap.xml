@@ -5,8 +5,7 @@
     <loc>http://localhost:1313/home/</loc>
     <lastmod>2026-10-09T08:53:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/code/</loc>
-    <lastmod>2026-02-06T08:30:03+01:00</lastmod>
+    <loc>http://localhost:1313/assets/</loc>
   </url><url>
     <loc>http://localhost:1313/courses/</loc>
     <lastmod>2025-06-01T22:39:31+02:00</lastmod>
@@ -24,7 +23,7 @@
     <lastmod>2026-08-18T11:12:16+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/</loc>
-    <lastmod>2026-11-05T13:38:06+02:00</lastmod>
+    <lastmod>2026-11-06T13:57:04+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/r/</loc>
     <lastmod>2026-08-28T09:13:47+02:00</lastmod>
@@ -42,6 +41,6 @@
     <lastmod>2026-08-28T09:13:47+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-05T13:38:06+02:00</lastmod>
+    <lastmod>2026-11-06T13:57:04+02:00</lastmod>
   </url>
 </urlset>
