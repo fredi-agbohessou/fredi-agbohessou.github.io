@@ -1,6 +1,6 @@
-# pascalmichaillat.org - Source Code and Content
+# fredi-agbohessou.github.io - Source Code and Content
 
-This repository contains the source code and content for Pascal Michaillat's website at https://pascalmichaillat.org. 
+This repository contains the source code and content for Yelognisse Fredi Agbohessou's website at https://fredi-agbohessou.github.io 
 
 ## Source code
 
@@ -9,10 +9,10 @@ This repository contains the source code and content for Pascal Michaillat's web
 
 ## Content
 
-+ [Research papers](https://pascalmichaillat.org/papers/) - Papers and online appendices are stored as PDF files in the `static` folder. Metadata are stored as Markdown files in the `content/papers` folder.
-+ [Course materials](https://pascalmichaillat.org/courses/) - Lecture notes, lecture slides, and homework are stored as PDF files in the `static` folder. Course plans are stored as Markdown files in the `content/courses` folder.
-+ [Design templates](https://pascalmichaillat.org/design/) - Documentation for design templates is stored as Markdown files in the `content/design` folder.
-+ [Automated business cycle dashboard](https://pascalmichaillat.org/dashboard/) - Python code to create the dashboard graphs is stored in the `content/dashboard` folder. Dashboard structure and FAQ are stored as a Markdown file in the `content/dashboard` folder. Dashboard data are stored as CSV and HTML files in the `static/dashboard` folder.
++ [Publications](https://fredi-agbohessou.github.io/papers/) - Papers and online appendices are stored as PDF files in the `static` folder. Metadata are stored as Markdown files in the `content/papers` folder.
++ [Projects](https://fredi-agbohessou.github.io/projects/) - Current and past research projects I have participated in
++ [Courses](https://fredi-agbohessou.github.io/courses/) - Lecture notes, lecture slides, and homework are stored as PDF files in the `static` folder.
++ [Assets](https://fredi-agbohessou.github.io/assets/) - Code, package, and modeling framework
 + Content can be batch downloaded by cloning this repository.
 
 ## License
